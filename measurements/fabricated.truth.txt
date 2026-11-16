@@ -1,0 +1,1 @@
+partidas 3750 (originales 2000); exact 250, illegalMove 42, impossibleDate 41, missingTermination 41, near-minhash 250, near-position 250, noMovesDecisiveResult 42, repeated-draw 250, resultContradictsMate 42, subsumed 250, unreadableGame 42

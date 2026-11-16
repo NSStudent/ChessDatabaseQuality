@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+*.xcodeproj
+DerivedData/
+/measurements/tmp/
+/measurements/lumbras-2025/aliases.json
+/measurements/lumbras-2025/duplicates.json
+/measurements/*.stdout.txt

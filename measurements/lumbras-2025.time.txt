@@ -1,0 +1,19 @@
+scanning   2.4 % 11773 partidas   scanning   4.8 % 22756 partidas   scanning   7.2 % 34852 partidas   scanning   9.7 % 46011 partidas   scanning  12.1 % 57926 partidas   scanning  14.5 % 69904 partidas   scanning  16.9 % 81981 partidas   scanning  19.3 % 93659 partidas   scanning  20.9 % 101887 partidas   scanning  23.3 % 114120 partidas   scanning  25.8 % 125833 partidas   scanning  28.2 % 137776 partidas   scanning  30.6 % 149641 partidas   scanning  33.0 % 161283 partidas   scanning  35.4 % 173087 partidas   scanning  37.8 % 184901 partidas   scanning  40.3 % 196559 partidas   scanning  42.7 % 208184 partidas   scanning  45.1 % 219860 partidas   scanning  47.5 % 231662 partidas   scanning  49.9 % 243361 partidas   scanning  52.3 % 255156 partidas   scanning  54.7 % 267016 partidas   scanning  57.2 % 278973 partidas   scanning  59.6 % 290764 partidas   scanning  62.0 % 302708 partidas   scanning  64.4 % 314505 partidas   scanning  66.8 % 326725 partidas   scanning  69.2 % 338810 partidas   scanning  71.6 % 351028 partidas   scanning  74.1 % 362945 partidas   scanning  76.5 % 374939 partidas   scanning  78.9 % 387023 partidas   scanning  81.3 % 399286 partidas   scanning  83.7 % 411518 partidas   scanning  86.1 % 423613 partidas   scanning  88.6 % 435622 partidas   scanning  91.0 % 447687 partidas   scanning  93.4 % 459680 partidas   scanning  95.8 % 471821 partidas   scanning  98.2 % 483651 partidas   scanning 100.0 % 492183 partidas   duplicates 100.0 % 492184 partidas   aliases 100.0 % 492184 partidas   report 100.0 % 492184 partidas   
+      670.90 real       365.69 user         5.26 sys
+           191512576  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+              167478  page reclaims
+                1457  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                 926  voluntary context switches
+              784909  involuntary context switches
+       3742789767163  instructions retired
+       1114210074827  cycles elapsed
+           185352912  peak memory footprint

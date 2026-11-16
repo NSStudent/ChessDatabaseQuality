@@ -1,0 +1,3337 @@
+{
+  "aliasCounts" : {
+    "certain" : 0,
+    "likely" : 1273,
+    "possible" : 3639
+  },
+  "aliasExamples" : [
+    {
+      "alias" : {
+        "eloMax" : 2335,
+        "eloMin" : 2335,
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "aabling thomsen, j",
+        "rawSamples" : [
+          "Aabling Thomsen, J"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2340,
+        "eloMin" : 2327,
+        "fideIDs" : [
+          1407589
+        ],
+        "games" : 14,
+        "normalized" : "aabling thomsen, jakob",
+        "rawSamples" : [
+          "Aabling-Thomsen, Jakob",
+          "Aabling Thomsen, Jakob"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (2327–2340 / 2335–2335)",
+        "años activos compatibles",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1597,
+        "eloMin" : 1597,
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "gupta, aayan",
+        "rawSamples" : [
+          "Aayan Gupta"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1718,
+        "eloMin" : 1588,
+        "fideIDs" : [
+
+        ],
+        "games" : 2,
+        "normalized" : "aayan, gupta",
+        "rawSamples" : [
+          "Aayan, Gupta"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (1588–1718 / 1597–1597)",
+        "años activos compatibles",
+        "mismos nombres en otro orden"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 2411,
+        "eloMin" : 2383,
+        "fideIDs" : [
+
+        ],
+        "games" : 3,
+        "normalized" : "abel, d",
+        "rawSamples" : [
+          "Abel, D"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2383,
+        "eloMin" : 2367,
+        "fideIDs" : [
+          24605417
+        ],
+        "games" : 11,
+        "normalized" : "abel, dennes",
+        "rawSamples" : [
+          "Abel, Dennes"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (2367–2383 / 2383–2411)",
+        "años activos compatibles",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1952,
+        "eloMin" : 1929,
+        "fideIDs" : [
+
+        ],
+        "games" : 3,
+        "normalized" : "anand, abhinav",
+        "rawSamples" : [
+          "Abhinav Anand"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1929,
+        "eloMin" : 1922,
+        "fideIDs" : [
+
+        ],
+        "games" : 5,
+        "normalized" : "abhinav, anand",
+        "rawSamples" : [
+          "Abhinav, Anand"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (1929–1952 / 1922–1929)",
+        "años activos compatibles",
+        "mismos nombres en otro orden"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1953,
+        "eloMin" : 1953,
+        "fideIDs" : [
+
+        ],
+        "games" : 6,
+        "normalized" : "santhosh, abhyuday",
+        "rawSamples" : [
+          "Santhosh, Abhyuday"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2094,
+        "eloMin" : 1953,
+        "fideIDs" : [
+          25624849
+        ],
+        "games" : 9,
+        "normalized" : "abhyuday, santhosh",
+        "rawSamples" : [
+          "Abhyuday, Santhosh"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (1953–1953 / 1953–2094)",
+        "años activos compatibles",
+        "mismos nombres en otro orden",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 2456,
+        "eloMin" : 2435,
+        "fideIDs" : [
+
+        ],
+        "games" : 2,
+        "normalized" : "aczel, g",
+        "rawSamples" : [
+          "Aczel, G"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2496,
+        "eloMin" : 2417,
+        "fideIDs" : [
+          727709
+        ],
+        "games" : 167,
+        "normalized" : "aczel, gergely",
+        "rawSamples" : [
+          "Aczel, Gergely"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (2417–2496 / 2435–2456)",
+        "años activos compatibles",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 2557,
+        "eloMin" : 2518,
+        "fideIDs" : [
+
+        ],
+        "games" : 35,
+        "normalized" : "adhiban, baskaran",
+        "rawSamples" : [
+          "Adhiban, Baskaran"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2557,
+        "eloMin" : 2509,
+        "fideIDs" : [
+          5018471
+        ],
+        "games" : 84,
+        "normalized" : "adhiban, b",
+        "rawSamples" : [
+          "Adhiban, B"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (2518–2557 / 2509–2557)",
+        "años activos compatibles",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 2370,
+        "eloMin" : 2341,
+        "fideIDs" : [
+
+        ],
+        "games" : 17,
+        "normalized" : "sathvik, adiga",
+        "rawSamples" : [
+          "Sathvik, Adiga"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2396,
+        "eloMin" : 2341,
+        "fideIDs" : [
+          25745700
+        ],
+        "games" : 60,
+        "normalized" : "adiga, sathvik",
+        "rawSamples" : [
+          "Sathvik Adiga"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (2341–2396 / 2341–2370)",
+        "años activos compatibles",
+        "mismos nombres en otro orden",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 3,
+        "normalized" : "akash, gupta",
+        "rawSamples" : [
+          "Akash, Gupta"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2373,
+        "eloMin" : 2100,
+        "fideIDs" : [
+          25644394
+        ],
+        "games" : 80,
+        "normalized" : "aakash, g",
+        "rawSamples" : [
+          "Aakash G",
+          "Aakash, G"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 1.00",
+        "años activos compatibles",
+        "misma transliteración del apellido",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 5,
+        "normalized" : "aryansh",
+        "rawSamples" : [
+          "Aryansh"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1484,
+        "eloMin" : 1484,
+        "fideIDs" : [
+          88177971
+        ],
+        "games" : 2,
+        "normalized" : "aaryansh",
+        "rawSamples" : [
+          "Aaryansh"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 1.00",
+        "años activos compatibles",
+        "misma transliteración del apellido",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "salazar, cesar enrique abad",
+        "rawSamples" : [
+          "Cesar Enrique Abad Salazar"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1743,
+        "eloMin" : 1743,
+        "fideIDs" : [
+          144458800
+        ],
+        "games" : 9,
+        "normalized" : "abad salazar, cesar enrique",
+        "rawSamples" : [
+          "Abad Salazar, Cesar Enrique"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 1.00",
+        "años activos compatibles",
+        "mismos nombres en otro orden",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 5,
+        "normalized" : "abduhakimov, akbarali",
+        "rawSamples" : [
+          "Abduhakimov, Akbarali"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2363,
+        "eloMin" : 2217,
+        "fideIDs" : [
+          14219522
+        ],
+        "games" : 99,
+        "normalized" : "abdukhakimov, akbarali",
+        "rawSamples" : [
+          "Abdukhakimov, Akbarali"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 1.00",
+        "años activos compatibles",
+        "misma transliteración del apellido",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 9,
+        "normalized" : "abdulhamidov, abdumajid",
+        "rawSamples" : [
+          "Abdulhamidov, Abdumajid"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1533,
+        "eloMin" : 1533,
+        "fideIDs" : [
+          14236753
+        ],
+        "games" : 2,
+        "normalized" : "abdulkhamidov, abdumajid",
+        "rawSamples" : [
+          "Abdulkhamidov, Abdumajid"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 1.00",
+        "años activos compatibles",
+        "misma transliteración del apellido",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1787,
+        "eloMin" : 1787,
+        "fideIDs" : [
+
+        ],
+        "games" : 2,
+        "normalized" : "das, abhigyan",
+        "rawSamples" : [
+          "Abhigyan Das"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1632,
+        "eloMin" : 1632,
+        "fideIDs" : [
+
+        ],
+        "games" : 3,
+        "normalized" : "abhigyan, das",
+        "rawSamples" : [
+          "Abhigyan, Das"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 1.00",
+        "años activos compatibles",
+        "mismos nombres en otro orden"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 2,
+        "normalized" : "abhishek, d",
+        "rawSamples" : [
+          "Abhishek, D"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2226,
+        "eloMin" : 2226,
+        "fideIDs" : [
+          5013348
+        ],
+        "games" : 2,
+        "normalized" : "abhishek, das",
+        "rawSamples" : [
+          "Abhishek, Das"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 1.00",
+        "años activos compatibles",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 2109,
+        "eloMin" : 2109,
+        "fideIDs" : [
+
+        ],
+        "games" : 2,
+        "normalized" : "hanif, abu",
+        "rawSamples" : [
+          "Abu Hanif"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1878,
+        "eloMin" : 1878,
+        "fideIDs" : [
+          10206647
+        ],
+        "games" : 33,
+        "normalized" : "abu, hanif",
+        "rawSamples" : [
+          "Abu, Hanif"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 1.00",
+        "años activos compatibles",
+        "mismos nombres en otro orden",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    }
+  ],
+  "concurrency" : 10,
+  "duplicateExamples" : [
+    {
+      "games" : [
+        {
+          "black" : "Chavez Suarez, Carlos Alberto",
+          "date" : "2025.12.30",
+          "event" : "Barcelona Christmas IM",
+          "id" : 1190,
+          "plyCount" : "154",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Boukhris-Ferre, Yacine"
+        },
+        {
+          "black" : "Chavez Suarez, Carlos Alberto",
+          "date" : "2025.12.??",
+          "event" : "Cerrado IM Barcelona Navidad 2025",
+          "id" : 40031,
+          "plyCount" : "154",
+          "relation" : "exact",
+          "result" : "0-1",
+          "white" : "Boukhris-Ferre, Yacine"
+        }
+      ],
+      "kind" : "exact",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "ECO",
+            "values" : [
+              "B23",
+              "B06"
+            ]
+          },
+          {
+            "name" : "Event",
+            "values" : [
+              "Cerrado IM Barcelona Navidad 2025",
+              "Barcelona Christmas IM"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "8.4",
+              "8"
+            ]
+          }
+        ],
+        "keeper" : 1190,
+        "remove" : [
+          40031
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 40031,
+            "value" : "Cerrado IM Barcelona Navidad 2025"
+          },
+          {
+            "name" : "Site",
+            "source" : 1190,
+            "value" : "Barcelona ESP"
+          },
+          {
+            "name" : "Date",
+            "source" : 1190,
+            "value" : "2025.12.30"
+          },
+          {
+            "name" : "Round",
+            "source" : 1190,
+            "value" : "8.4"
+          },
+          {
+            "name" : "White",
+            "source" : 1190,
+            "value" : "Boukhris-Ferre, Yacine"
+          },
+          {
+            "name" : "Black",
+            "source" : 1190,
+            "value" : "Chavez Suarez, Carlos Alberto"
+          },
+          {
+            "name" : "Result",
+            "source" : 1190,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 1190,
+            "value" : "2294"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 1190,
+            "value" : "3520676"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 1190,
+            "value" : "FM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 1190,
+            "value" : "176096731474"
+          },
+          {
+            "name" : "ECO",
+            "source" : 1190,
+            "value" : "B23"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 1190,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 1190,
+            "value" : "Probable"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 1190,
+            "value" : "2026-10-12"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 1190,
+            "value" : "154"
+          },
+          {
+            "name" : "Source",
+            "source" : 1190,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 1190,
+            "value" : "2"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 40031,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 1190,
+            "value" : "2105"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 1190,
+            "value" : "697087"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Montero Romero, Dany Jose",
+          "date" : "2025.12.30",
+          "event" : "XLVI Metropolitano Torneo Internacional 2025 Blitz",
+          "id" : 1996,
+          "plyCount" : "110",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Juarez Hidalgo, Jimena"
+        },
+        {
+          "black" : "Montero Romero, Dany Jose",
+          "date" : "2025.12.29",
+          "event" : "XLVI Metropolitano Torneo Internacional|Metropolitano Blitz",
+          "id" : 2874,
+          "plyCount" : "110",
+          "relation" : "exact",
+          "result" : "0-1",
+          "white" : "Juarez Hidalgo, Jimena"
+        }
+      ],
+      "kind" : "exact",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Date",
+            "values" : [
+              "2025.12.30",
+              "2025.12.29"
+            ]
+          },
+          {
+            "name" : "Event",
+            "values" : [
+              "XLVI Metropolitano Torneo Internacional|Metropolitano Blitz",
+              "XLVI Metropolitano Torneo Internacional 2025 Blitz"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "3",
+              "3.35"
+            ]
+          }
+        ],
+        "keeper" : 1996,
+        "remove" : [
+          2874
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 2874,
+            "value" : "XLVI Metropolitano Torneo Internacional|Metropolitano Blitz"
+          },
+          {
+            "name" : "Site",
+            "source" : 1996,
+            "value" : "Estadio Nacional, San Jose, Costa Rica"
+          },
+          {
+            "name" : "Date",
+            "source" : 1996,
+            "value" : "2025.12.30"
+          },
+          {
+            "name" : "Round",
+            "source" : 1996,
+            "value" : "3"
+          },
+          {
+            "name" : "White",
+            "source" : 1996,
+            "value" : "Juarez Hidalgo, Jimena"
+          },
+          {
+            "name" : "Black",
+            "source" : 1996,
+            "value" : "Montero Romero, Dany Jose"
+          },
+          {
+            "name" : "Result",
+            "source" : 1996,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 1996,
+            "value" : "1823"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 1996,
+            "value" : "6522181"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 1996,
+            "value" : "184684149432"
+          },
+          {
+            "name" : "ECO",
+            "source" : 1996,
+            "value" : "D55"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 1996,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 1996,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 1996,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 1996,
+            "value" : "110"
+          },
+          {
+            "name" : "Source",
+            "source" : 1996,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 1996,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 1996,
+            "value" : "Blitz"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 1996,
+            "value" : "1552"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 1996,
+            "value" : "6544428"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Cardenas Vargas, Jean Carlo",
+          "date" : "2025.12.30",
+          "event" : "XLVI Metropolitano Torneo Internacional 2025 Blitz",
+          "id" : 1997,
+          "plyCount" : "62",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Quiros Fernandez, Dereck"
+        },
+        {
+          "black" : "Cardenas Vargas, Jean Carlo",
+          "date" : "2025.12.29",
+          "event" : "XLVI Metropolitano Torneo Internacional|Metropolitano Blitz",
+          "id" : 2876,
+          "plyCount" : "62",
+          "relation" : "exact",
+          "result" : "0-1",
+          "white" : "Quiros Fernandez, Dereck"
+        }
+      ],
+      "kind" : "exact",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Date",
+            "values" : [
+              "2025.12.30",
+              "2025.12.29"
+            ]
+          },
+          {
+            "name" : "Event",
+            "values" : [
+              "XLVI Metropolitano Torneo Internacional|Metropolitano Blitz",
+              "XLVI Metropolitano Torneo Internacional 2025 Blitz"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "4",
+              "4.33"
+            ]
+          }
+        ],
+        "keeper" : 1997,
+        "remove" : [
+          2876
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 2876,
+            "value" : "XLVI Metropolitano Torneo Internacional|Metropolitano Blitz"
+          },
+          {
+            "name" : "Site",
+            "source" : 1997,
+            "value" : "Estadio Nacional, San Jose, Costa Rica"
+          },
+          {
+            "name" : "Date",
+            "source" : 1997,
+            "value" : "2025.12.30"
+          },
+          {
+            "name" : "Round",
+            "source" : 1997,
+            "value" : "4"
+          },
+          {
+            "name" : "White",
+            "source" : 1997,
+            "value" : "Quiros Fernandez, Dereck"
+          },
+          {
+            "name" : "Black",
+            "source" : 1997,
+            "value" : "Cardenas Vargas, Jean Carlo"
+          },
+          {
+            "name" : "Result",
+            "source" : 1997,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 1997,
+            "value" : "1664"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 1997,
+            "value" : "6517358"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 1997,
+            "value" : "184684149490"
+          },
+          {
+            "name" : "ECO",
+            "source" : 1997,
+            "value" : "C45"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 1997,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 1997,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 1997,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 1997,
+            "value" : "62"
+          },
+          {
+            "name" : "Source",
+            "source" : 1997,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 1997,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 1997,
+            "value" : "Blitz"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 1997,
+            "value" : "1717"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 1997,
+            "value" : "6562876"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Hernandez Alvarez, Tania Regla",
+          "date" : "2025.12.30",
+          "event" : "XLVI Metropolitano Torneo Internacional 2025 Blitz",
+          "id" : 1998,
+          "plyCount" : "133",
+          "relation" : "keeper",
+          "result" : "1-0",
+          "white" : "Bonilla Rodriguez, Andres"
+        },
+        {
+          "black" : "Hernandez Alvarez, Tania Regla",
+          "date" : "2025.12.29",
+          "event" : "XLVI Metropolitano Torneo Internacional|Metropolitano Blitz",
+          "id" : 2879,
+          "plyCount" : "133",
+          "relation" : "exact",
+          "result" : "1-0",
+          "white" : "Bonilla Rodriguez, Andres"
+        }
+      ],
+      "kind" : "exact",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Date",
+            "values" : [
+              "2025.12.30",
+              "2025.12.29"
+            ]
+          },
+          {
+            "name" : "Event",
+            "values" : [
+              "XLVI Metropolitano Torneo Internacional|Metropolitano Blitz",
+              "XLVI Metropolitano Torneo Internacional 2025 Blitz"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "8",
+              "8.15"
+            ]
+          }
+        ],
+        "keeper" : 1998,
+        "remove" : [
+          2879
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 2879,
+            "value" : "XLVI Metropolitano Torneo Internacional|Metropolitano Blitz"
+          },
+          {
+            "name" : "Site",
+            "source" : 1998,
+            "value" : "Estadio Nacional, San Jose, Costa Rica"
+          },
+          {
+            "name" : "Date",
+            "source" : 1998,
+            "value" : "2025.12.30"
+          },
+          {
+            "name" : "Round",
+            "source" : 1998,
+            "value" : "8"
+          },
+          {
+            "name" : "White",
+            "source" : 1998,
+            "value" : "Bonilla Rodriguez, Andres"
+          },
+          {
+            "name" : "Black",
+            "source" : 1998,
+            "value" : "Hernandez Alvarez, Tania Regla"
+          },
+          {
+            "name" : "Result",
+            "source" : 1998,
+            "value" : "1-0"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 1998,
+            "value" : "2032"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 1998,
+            "value" : "3501442"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 1998,
+            "value" : "WIM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 1998,
+            "value" : "304942763123"
+          },
+          {
+            "name" : "ECO",
+            "source" : 1998,
+            "value" : "D02"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 1998,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 1998,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 1998,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 1998,
+            "value" : "133"
+          },
+          {
+            "name" : "Source",
+            "source" : 1998,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 1998,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 1998,
+            "value" : "Blitz"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 1998,
+            "value" : "1980"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 1998,
+            "value" : "6505600"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Burmakin, Vladimir",
+          "date" : "2025.12.30",
+          "event" : "Athens of the East 5th International Grandmaster Open Chess Tournament | Cat-A",
+          "id" : 1148,
+          "plyCount" : "144",
+          "relation" : "keeper",
+          "result" : "1/2-1/2",
+          "white" : "Arpith S Bijoy"
+        },
+        {
+          "black" : "Burmakin, Vladimir",
+          "date" : "2025.12.30",
+          "event" : "Athens of the East 5th International Grandmaster Open Chess tournament (Category",
+          "id" : 1152,
+          "plyCount" : "143",
+          "relation" : "subsumed",
+          "result" : "1/2-1/2",
+          "white" : "Arpith S Bijoy"
+        }
+      ],
+      "kind" : "subsumed",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Event",
+            "values" : [
+              "Athens of the East 5th International Grandmaster Open Chess tournament (Category",
+              "Athens of the East 5th International Grandmaster Open Chess Tournament | Cat-A"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "9.6",
+              "9"
+            ]
+          },
+          {
+            "name" : "Site",
+            "values" : [
+              "Amika Hotel,Airport-Mattuthavani Ring Road, Madurai",
+              "Hotel Amika, Madurai, India"
+            ]
+          }
+        ],
+        "keeper" : 1148,
+        "remove" : [
+          1152
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 1152,
+            "value" : "Athens of the East 5th International Grandmaster Open Chess tournament (Category"
+          },
+          {
+            "name" : "Site",
+            "source" : 1152,
+            "value" : "Amika Hotel,Airport-Mattuthavani Ring Road, Madurai"
+          },
+          {
+            "name" : "Date",
+            "source" : 1148,
+            "value" : "2025.12.30"
+          },
+          {
+            "name" : "Round",
+            "source" : 1148,
+            "value" : "9.6"
+          },
+          {
+            "name" : "White",
+            "source" : 1148,
+            "value" : "Arpith S Bijoy"
+          },
+          {
+            "name" : "Black",
+            "source" : 1148,
+            "value" : "Burmakin, Vladimir"
+          },
+          {
+            "name" : "Result",
+            "source" : 1148,
+            "value" : "1/2-1/2"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 1148,
+            "value" : "2428"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 1148,
+            "value" : "4105109"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 1148,
+            "value" : "GM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 1148,
+            "value" : "339302655772"
+          },
+          {
+            "name" : "ECO",
+            "source" : 1148,
+            "value" : "A47"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 1148,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 1148,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 1148,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 1148,
+            "value" : "144"
+          },
+          {
+            "name" : "Source",
+            "source" : 1152,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 1148,
+            "value" : "2"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 1152,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 1148,
+            "value" : "2143"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 1148,
+            "value" : "25677217"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 1148,
+            "value" : "Not yet awarded"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Kamarul Azhar, Muhd Haziq Haikal",
+          "date" : "2025.12.30",
+          "event" : "Johor Chess Festival 2025 | International Challenger",
+          "id" : 1550,
+          "plyCount" : "82",
+          "relation" : "keeper",
+          "result" : "1/2-1/2",
+          "white" : "Khor, Zhi Chong"
+        },
+        {
+          "black" : "Kamarul Azhar, Muhd Haziq Haikal",
+          "date" : "2025.12.30",
+          "event" : "10th Johor International Chess Open 2025 - Challenger",
+          "id" : 848,
+          "plyCount" : "80",
+          "relation" : "subsumed",
+          "result" : "1/2-1/2",
+          "white" : "Khor, Zhi Chong"
+        }
+      ],
+      "kind" : "subsumed",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Event",
+            "values" : [
+              "10th Johor International Chess Open 2025 - Challenger",
+              "Johor Chess Festival 2025 | International Challenger"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "7.3",
+              "7"
+            ]
+          }
+        ],
+        "keeper" : 1550,
+        "remove" : [
+          848
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 848,
+            "value" : "10th Johor International Chess Open 2025 - Challenger"
+          },
+          {
+            "name" : "Site",
+            "source" : 1550,
+            "value" : "Main hall, Fairview International School, Malaysia"
+          },
+          {
+            "name" : "Date",
+            "source" : 1550,
+            "value" : "2025.12.30"
+          },
+          {
+            "name" : "Round",
+            "source" : 1550,
+            "value" : "7.3"
+          },
+          {
+            "name" : "White",
+            "source" : 1550,
+            "value" : "Khor, Zhi Chong"
+          },
+          {
+            "name" : "Black",
+            "source" : 1550,
+            "value" : "Kamarul Azhar, Muhd Haziq Haikal"
+          },
+          {
+            "name" : "Result",
+            "source" : 1550,
+            "value" : "1/2-1/2"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 1550,
+            "value" : "1655"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 1550,
+            "value" : "35830573"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 1550,
+            "value" : "339303029785"
+          },
+          {
+            "name" : "ECO",
+            "source" : 1550,
+            "value" : "D05"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 1550,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 1550,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 1550,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 1550,
+            "value" : "82"
+          },
+          {
+            "name" : "Source",
+            "source" : 848,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 1550,
+            "value" : "2"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 848,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 1550,
+            "value" : "1600"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 1550,
+            "value" : "35834617"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Vergara Jofre, Felipe",
+          "date" : "2025.12.29",
+          "event" : "Cerrado Barcelona Navidad 2025 | GM 1",
+          "id" : 2275,
+          "plyCount" : "38",
+          "relation" : "keeper",
+          "result" : "1/2-1/2",
+          "white" : "Prado Lobo, Jonas"
+        },
+        {
+          "black" : "Vergara Jofre, Felipe",
+          "date" : "2025.12.29",
+          "event" : "Cerrado GM Barcelona Navidad 2025",
+          "id" : 2281,
+          "plyCount" : "33",
+          "relation" : "subsumed",
+          "result" : "1/2-1/2",
+          "white" : "Prado Lobo, Jonas"
+        }
+      ],
+      "kind" : "subsumed",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Event",
+            "values" : [
+              "Cerrado Barcelona Navidad 2025 | GM 1",
+              "Cerrado GM Barcelona Navidad 2025"
+            ]
+          },
+          {
+            "name" : "Site",
+            "values" : [
+              "Barcelona ESP",
+              "Unknown"
+            ]
+          }
+        ],
+        "keeper" : 2275,
+        "remove" : [
+          2281
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 2275,
+            "value" : "Cerrado Barcelona Navidad 2025 | GM 1"
+          },
+          {
+            "name" : "Site",
+            "source" : 2281,
+            "value" : "Barcelona ESP"
+          },
+          {
+            "name" : "Date",
+            "source" : 2275,
+            "value" : "2025.12.29"
+          },
+          {
+            "name" : "Round",
+            "source" : 2275,
+            "value" : "7.1"
+          },
+          {
+            "name" : "White",
+            "source" : 2275,
+            "value" : "Prado Lobo, Jonas"
+          },
+          {
+            "name" : "Black",
+            "source" : 2275,
+            "value" : "Vergara Jofre, Felipe"
+          },
+          {
+            "name" : "Result",
+            "source" : 2275,
+            "value" : "1/2-1/2"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 2275,
+            "value" : "2272"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 2275,
+            "value" : "3416291"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 2275,
+            "value" : "FM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 2275,
+            "value" : "339303000543"
+          },
+          {
+            "name" : "ECO",
+            "source" : 2275,
+            "value" : "A08"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 2275,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 2275,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 2275,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 2275,
+            "value" : "38"
+          },
+          {
+            "name" : "Source",
+            "source" : 2281,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 2275,
+            "value" : "2"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 2281,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 2275,
+            "value" : "2395"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 2275,
+            "value" : "32050666"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 2275,
+            "value" : "IM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Cesar Maestre, Bernardo",
+          "date" : "2025.12.29",
+          "event" : "Cerrado Barcelona Navidad 2025 | GM 2",
+          "id" : 2276,
+          "plyCount" : "83",
+          "relation" : "keeper",
+          "result" : "1/2-1/2",
+          "white" : "Moskalenko, Viktor"
+        },
+        {
+          "black" : "Cesar Maestre, Bernardo",
+          "date" : "2025.12.29",
+          "event" : "Cerrado GM2 Barcelona Navidad 2025",
+          "id" : 2284,
+          "plyCount" : "82",
+          "relation" : "subsumed",
+          "result" : "1/2-1/2",
+          "white" : "Moskalenko, Viktor"
+        }
+      ],
+      "kind" : "subsumed",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Event",
+            "values" : [
+              "Cerrado Barcelona Navidad 2025 | GM 2",
+              "Cerrado GM2 Barcelona Navidad 2025"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "7.2",
+              "7"
+            ]
+          },
+          {
+            "name" : "Site",
+            "values" : [
+              "Barcelona",
+              "Unknown"
+            ]
+          }
+        ],
+        "keeper" : 2276,
+        "remove" : [
+          2284
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 2276,
+            "value" : "Cerrado Barcelona Navidad 2025 | GM 2"
+          },
+          {
+            "name" : "Site",
+            "source" : 2284,
+            "value" : "Barcelona"
+          },
+          {
+            "name" : "Date",
+            "source" : 2276,
+            "value" : "2025.12.29"
+          },
+          {
+            "name" : "Round",
+            "source" : 2276,
+            "value" : "7.2"
+          },
+          {
+            "name" : "White",
+            "source" : 2276,
+            "value" : "Moskalenko, Viktor"
+          },
+          {
+            "name" : "Black",
+            "source" : 2276,
+            "value" : "Cesar Maestre, Bernardo"
+          },
+          {
+            "name" : "Result",
+            "source" : 2276,
+            "value" : "1/2-1/2"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 2276,
+            "value" : "2369"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 2276,
+            "value" : "24542547"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 2276,
+            "value" : "IM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 2276,
+            "value" : "339303064748"
+          },
+          {
+            "name" : "ECO",
+            "source" : 2276,
+            "value" : "A06"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 2276,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 2276,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 2276,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 2276,
+            "value" : "83"
+          },
+          {
+            "name" : "Source",
+            "source" : 2284,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 2276,
+            "value" : "2"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 2284,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 2276,
+            "value" : "2416"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 2276,
+            "value" : "14100100"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 2276,
+            "value" : "GM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Vijay, Rege",
+          "date" : "2025.12.29",
+          "event" : "Johor Chess Festival 2025 | International Open",
+          "id" : 2538,
+          "plyCount" : "74",
+          "relation" : "keeper",
+          "result" : "1/2-1/2",
+          "white" : "Biriya, Mohammadamin"
+        },
+        {
+          "black" : "Vijay, Rege",
+          "date" : "2025.12.29",
+          "event" : "10th Johor International Chess Open 2025",
+          "id" : 2052,
+          "plyCount" : "72",
+          "relation" : "near (positionAtPly)",
+          "result" : "1/2-1/2",
+          "white" : "Biriya, Mohammadamin"
+        }
+      ],
+      "kind" : "near-positionAtPly",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Event",
+            "values" : [
+              "Johor Chess Festival 2025 | International Open",
+              "10th Johor International Chess Open 2025"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "1",
+              "5"
+            ]
+          },
+          {
+            "name" : "Site",
+            "values" : [
+              "Main hall, Fairview International School",
+              "Unknown"
+            ]
+          }
+        ],
+        "keeper" : 2538,
+        "remove" : [
+          2052
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 2538,
+            "value" : "Johor Chess Festival 2025 | International Open"
+          },
+          {
+            "name" : "Site",
+            "source" : 2052,
+            "value" : "Main hall, Fairview International School"
+          },
+          {
+            "name" : "Date",
+            "source" : 2538,
+            "value" : "2025.12.29"
+          },
+          {
+            "name" : "Round",
+            "source" : 2538,
+            "value" : "1"
+          },
+          {
+            "name" : "White",
+            "source" : 2538,
+            "value" : "Biriya, Mohammadamin"
+          },
+          {
+            "name" : "Black",
+            "source" : 2538,
+            "value" : "Vijay, Rege"
+          },
+          {
+            "name" : "Result",
+            "source" : 2538,
+            "value" : "1/2-1/2"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 2538,
+            "value" : "2013"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 2538,
+            "value" : "5833655"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 2538,
+            "value" : "339303254414"
+          },
+          {
+            "name" : "ECO",
+            "source" : 2538,
+            "value" : "D78"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 2538,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 2538,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 2538,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 2538,
+            "value" : "74"
+          },
+          {
+            "name" : "Source",
+            "source" : 2052,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 2538,
+            "value" : "2"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 2052,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 2538,
+            "value" : "2301"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 2538,
+            "value" : "22541926"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 2538,
+            "value" : "FM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Zhang, Hanwen",
+          "date" : "2025.12.26",
+          "event" : "Hong Kong International Open 2025 - Challengers",
+          "id" : 6473,
+          "plyCount" : "74",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Linsangan, Raymond"
+        },
+        {
+          "black" : "Zhang, Hanwen",
+          "date" : "2025.12.26",
+          "event" : "Hong Kong International Open Chess Championship 2025 | Challengers",
+          "id" : 6536,
+          "plyCount" : "70",
+          "relation" : "near (positionAtPly)",
+          "result" : "0-1",
+          "white" : "Linsangan, Raymond"
+        }
+      ],
+      "kind" : "near-positionAtPly",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Event",
+            "values" : [
+              "Hong Kong International Open Chess Championship 2025 | Challengers",
+              "Hong Kong International Open 2025 - Challengers"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "6",
+              "6.16"
+            ]
+          },
+          {
+            "name" : "Site",
+            "values" : [
+              "Queen Elizabeth Stadium in Wanchai, Hong Kong.",
+              "Wan Chai Stadium"
+            ]
+          }
+        ],
+        "keeper" : 6473,
+        "remove" : [
+          6536
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 6536,
+            "value" : "Hong Kong International Open Chess Championship 2025 | Challengers"
+          },
+          {
+            "name" : "Site",
+            "source" : 6473,
+            "value" : "Queen Elizabeth Stadium in Wanchai, Hong Kong."
+          },
+          {
+            "name" : "Date",
+            "source" : 6473,
+            "value" : "2025.12.26"
+          },
+          {
+            "name" : "Round",
+            "source" : 6473,
+            "value" : "6"
+          },
+          {
+            "name" : "White",
+            "source" : 6473,
+            "value" : "Linsangan, Raymond"
+          },
+          {
+            "name" : "Black",
+            "source" : 6473,
+            "value" : "Zhang, Hanwen"
+          },
+          {
+            "name" : "Result",
+            "source" : 6473,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 6473,
+            "value" : "6020500"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 6473,
+            "value" : "309239877570"
+          },
+          {
+            "name" : "ECO",
+            "source" : 6473,
+            "value" : "B23"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 6473,
+            "value" : "NoMatch"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 6473,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 6473,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 6473,
+            "value" : "74"
+          },
+          {
+            "name" : "Source",
+            "source" : 6473,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 6473,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 6473,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 6473,
+            "value" : "1715"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 6473,
+            "value" : "5279526"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Turmunkh Avirsed",
+          "date" : "2025.12.26",
+          "event" : "Hong Kong International Open 2025 - Challengers",
+          "id" : 6491,
+          "plyCount" : "55",
+          "relation" : "keeper",
+          "result" : "1-0",
+          "white" : "Tong, Ka Yau Caspar"
+        },
+        {
+          "black" : "Turmunkh Avirsed",
+          "date" : "2025.12.26",
+          "event" : "Hong Kong International Open Chess Championship 2025 | Challengers",
+          "id" : 6539,
+          "plyCount" : "55",
+          "relation" : "near (positionAtPly)",
+          "result" : "1-0",
+          "white" : "Tong, Ka Yau Caspar"
+        }
+      ],
+      "kind" : "near-positionAtPly",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Event",
+            "values" : [
+              "Hong Kong International Open Chess Championship 2025 | Challengers",
+              "Hong Kong International Open 2025 - Challengers"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "6",
+              "6.37"
+            ]
+          },
+          {
+            "name" : "Site",
+            "values" : [
+              "Queen Elizabeth Stadium in Wanchai, Hong Kong.",
+              "Wan Chai Stadium"
+            ]
+          }
+        ],
+        "keeper" : 6491,
+        "remove" : [
+          6539
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 6539,
+            "value" : "Hong Kong International Open Chess Championship 2025 | Challengers"
+          },
+          {
+            "name" : "Site",
+            "source" : 6491,
+            "value" : "Queen Elizabeth Stadium in Wanchai, Hong Kong."
+          },
+          {
+            "name" : "Date",
+            "source" : 6491,
+            "value" : "2025.12.26"
+          },
+          {
+            "name" : "Round",
+            "source" : 6491,
+            "value" : "6"
+          },
+          {
+            "name" : "White",
+            "source" : 6491,
+            "value" : "Tong, Ka Yau Caspar"
+          },
+          {
+            "name" : "Black",
+            "source" : 6491,
+            "value" : "Turmunkh Avirsed"
+          },
+          {
+            "name" : "Result",
+            "source" : 6491,
+            "value" : "1-0"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 6491,
+            "value" : "4934580"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 6491,
+            "value" : "309239877591"
+          },
+          {
+            "name" : "ECO",
+            "source" : 6491,
+            "value" : "B12"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 6491,
+            "value" : "NoMatch"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 6491,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 6491,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 6491,
+            "value" : "55"
+          },
+          {
+            "name" : "Source",
+            "source" : 6491,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 6491,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 6491,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 6491,
+            "value" : "1592"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 6491,
+            "value" : "6009387"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Peng, Hongchi",
+          "date" : "2025.12.21",
+          "event" : "17th Penang Heritage City International Chess Open 2025 (Open)",
+          "id" : 10185,
+          "plyCount" : "50",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Karthik Rajaa"
+        },
+        {
+          "black" : "Peng, Hongchi",
+          "date" : "2025.12.21",
+          "event" : "17th Penang Heritage City International Chess Open 2025 (Open)",
+          "id" : 10235,
+          "plyCount" : "48",
+          "relation" : "near (positionAtPly)",
+          "result" : "0-1",
+          "white" : "Karthik Rajaa"
+        }
+      ],
+      "kind" : "near-positionAtPly",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "ECO",
+            "values" : [
+              "A20",
+              "A00"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "6.5",
+              "6"
+            ]
+          },
+          {
+            "name" : "Site",
+            "values" : [
+              "Wesley Methodist School, Penang (International)",
+              "Unknown"
+            ]
+          }
+        ],
+        "keeper" : 10185,
+        "remove" : [
+          10235
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 10185,
+            "value" : "17th Penang Heritage City International Chess Open 2025 (Open)"
+          },
+          {
+            "name" : "Site",
+            "source" : 10235,
+            "value" : "Wesley Methodist School, Penang (International)"
+          },
+          {
+            "name" : "Date",
+            "source" : 10185,
+            "value" : "2025.12.21"
+          },
+          {
+            "name" : "Round",
+            "source" : 10185,
+            "value" : "6.5"
+          },
+          {
+            "name" : "White",
+            "source" : 10185,
+            "value" : "Karthik Rajaa"
+          },
+          {
+            "name" : "Black",
+            "source" : 10185,
+            "value" : "Peng, Hongchi"
+          },
+          {
+            "name" : "Result",
+            "source" : 10185,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 10185,
+            "value" : "2364"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 10185,
+            "value" : "8609047"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 10185,
+            "value" : "Not yet awarded"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 10185,
+            "value" : "339302834904"
+          },
+          {
+            "name" : "ECO",
+            "source" : 10185,
+            "value" : "A20"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 10185,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 10185,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 10185,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 10185,
+            "value" : "50"
+          },
+          {
+            "name" : "Source",
+            "source" : 10235,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 10185,
+            "value" : "2"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 10235,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 10185,
+            "value" : "2298"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 10185,
+            "value" : "25035215"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 10185,
+            "value" : "IM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Tologon tegin, Semetei",
+          "date" : "2025.12.30",
+          "event" : "Athens of the East 5th International Grandmaster Open Chess Tournament | Cat-A",
+          "id" : 1149,
+          "plyCount" : "131",
+          "relation" : "keeper",
+          "result" : "1/2-1/2",
+          "white" : "Advik Amit Agrawal"
+        },
+        {
+          "black" : "Tologontegin, S",
+          "date" : "2025.12.30",
+          "event" : "5th Athens of the East Op",
+          "id" : 1009,
+          "plyCount" : "131",
+          "relation" : "near (minHash)",
+          "result" : "1/2-1/2",
+          "white" : "Advik Amit Agrawal"
+        }
+      ],
+      "kind" : "near-minHash",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Black",
+            "values" : [
+              "Tologon tegin, Semetei",
+              "Tologontegin, S"
+            ]
+          },
+          {
+            "name" : "Event",
+            "values" : [
+              "Athens of the East 5th International Grandmaster Open Chess Tournament | Cat-A",
+              "5th Athens of the East Op"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "9.12",
+              "9.13"
+            ]
+          },
+          {
+            "name" : "WhiteElo",
+            "values" : [
+              "2116",
+              "2118"
+            ]
+          }
+        ],
+        "keeper" : 1149,
+        "remove" : [
+          1009
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 1149,
+            "value" : "Athens of the East 5th International Grandmaster Open Chess Tournament | Cat-A"
+          },
+          {
+            "name" : "Site",
+            "source" : 1149,
+            "value" : "Hotel Amika, Madurai, India"
+          },
+          {
+            "name" : "Date",
+            "source" : 1149,
+            "value" : "2025.12.30"
+          },
+          {
+            "name" : "Round",
+            "source" : 1149,
+            "value" : "9.12"
+          },
+          {
+            "name" : "White",
+            "source" : 1149,
+            "value" : "Advik Amit Agrawal"
+          },
+          {
+            "name" : "Black",
+            "source" : 1149,
+            "value" : "Tologon tegin, Semetei"
+          },
+          {
+            "name" : "Result",
+            "source" : 1149,
+            "value" : "1/2-1/2"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 1149,
+            "value" : "2322"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 1149,
+            "value" : "13800574"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 1149,
+            "value" : "IM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 1149,
+            "value" : "339302655778"
+          },
+          {
+            "name" : "ECO",
+            "source" : 1149,
+            "value" : "C02"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 1149,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 1149,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 1149,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 1149,
+            "value" : "131"
+          },
+          {
+            "name" : "Source",
+            "source" : 1009,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 1149,
+            "value" : "2"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 1149,
+            "value" : "2116"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 1149,
+            "value" : "48753629"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 1149,
+            "value" : "CM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Tologon tegin, Semetei",
+          "date" : "2025.12.28",
+          "event" : "Athens of the East 5th International Grandmaster Open Chess tournament (Category",
+          "id" : 3344,
+          "plyCount" : "106",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Balkishan, A"
+        },
+        {
+          "black" : "Tologontegin, S",
+          "date" : "2025.12.28",
+          "event" : "5th Athens of the East Op",
+          "id" : 3337,
+          "plyCount" : "106",
+          "relation" : "near (minHash)",
+          "result" : "0-1",
+          "white" : "Balkishan, A"
+        }
+      ],
+      "kind" : "near-minHash",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Black",
+            "values" : [
+              "Tologon tegin, Semetei",
+              "Tologontegin, S"
+            ]
+          },
+          {
+            "name" : "Event",
+            "values" : [
+              "Athens of the East 5th International Grandmaster Open Chess tournament (Category",
+              "5th Athens of the East Op"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "7",
+              "7.11"
+            ]
+          },
+          {
+            "name" : "Site",
+            "values" : [
+              "Amika Hotel,Airport-Mattuthavani Ring Road, Madurai",
+              "Madurai IND"
+            ]
+          }
+        ],
+        "keeper" : 3344,
+        "remove" : [
+          3337
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 3344,
+            "value" : "Athens of the East 5th International Grandmaster Open Chess tournament (Category"
+          },
+          {
+            "name" : "Site",
+            "source" : 3344,
+            "value" : "Amika Hotel,Airport-Mattuthavani Ring Road, Madurai"
+          },
+          {
+            "name" : "Date",
+            "source" : 3344,
+            "value" : "2025.12.28"
+          },
+          {
+            "name" : "Round",
+            "source" : 3344,
+            "value" : "7"
+          },
+          {
+            "name" : "White",
+            "source" : 3344,
+            "value" : "Balkishan, A"
+          },
+          {
+            "name" : "Black",
+            "source" : 3344,
+            "value" : "Tologon tegin, Semetei"
+          },
+          {
+            "name" : "Result",
+            "source" : 3344,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 3344,
+            "value" : "2322"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 3344,
+            "value" : "13800574"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 3344,
+            "value" : "IM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 3344,
+            "value" : "309239848357"
+          },
+          {
+            "name" : "ECO",
+            "source" : 3337,
+            "value" : "A42"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 3344,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 3344,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 3344,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 3344,
+            "value" : "106"
+          },
+          {
+            "name" : "Source",
+            "source" : 3344,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 3344,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 3344,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 3344,
+            "value" : "2134"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 3344,
+            "value" : "5029520"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Fernandes Barbosa Dos Santos, Gabriel",
+          "date" : "2025.12.28",
+          "event" : "BASEL XMAS FESTIVAL 2025- MASTER",
+          "id" : 3381,
+          "plyCount" : "31",
+          "relation" : "keeper",
+          "result" : "1/2-1/2",
+          "white" : "Citak, Selim"
+        },
+        {
+          "black" : "Fernandes Barbosa Dos Santos, Gabriel",
+          "date" : "2025.12.28",
+          "event" : "Basel Christmas Open 2025",
+          "id" : 3402,
+          "plyCount" : "31",
+          "relation" : "near (minHash)",
+          "result" : "1/2-1/2",
+          "white" : "Citak, Selim"
+        }
+      ],
+      "kind" : "near-minHash",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Event",
+            "values" : [
+              "BASEL XMAS FESTIVAL 2025- MASTER",
+              "Basel Christmas Open 2025"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "4",
+              "4.7"
+            ]
+          },
+          {
+            "name" : "Site",
+            "values" : [
+              "Moevenpick Hotel - Aeschengraben 25 - CH-4051 Basel",
+              "Basel SUI"
+            ]
+          }
+        ],
+        "keeper" : 3381,
+        "remove" : [
+          3402
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 3381,
+            "value" : "BASEL XMAS FESTIVAL 2025- MASTER"
+          },
+          {
+            "name" : "Site",
+            "source" : 3381,
+            "value" : "Moevenpick Hotel - Aeschengraben 25 - CH-4051 Basel"
+          },
+          {
+            "name" : "Date",
+            "source" : 3381,
+            "value" : "2025.12.28"
+          },
+          {
+            "name" : "Round",
+            "source" : 3381,
+            "value" : "4"
+          },
+          {
+            "name" : "White",
+            "source" : 3381,
+            "value" : "Citak, Selim"
+          },
+          {
+            "name" : "Black",
+            "source" : 3381,
+            "value" : "Fernandes Barbosa Dos Santos, Gabriel"
+          },
+          {
+            "name" : "Result",
+            "source" : 3381,
+            "value" : "1/2-1/2"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 3381,
+            "value" : "2227"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 3381,
+            "value" : "1354388"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 3381,
+            "value" : "CM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 3381,
+            "value" : "309239670075"
+          },
+          {
+            "name" : "ECO",
+            "source" : 3402,
+            "value" : "D37"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 3381,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 3381,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 3381,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 3381,
+            "value" : "31"
+          },
+          {
+            "name" : "Source",
+            "source" : 3381,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 3381,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 3381,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 3381,
+            "value" : "2314"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 3381,
+            "value" : "6301819"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 3381,
+            "value" : "FM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Perez, Camacho Julio Emmanuel",
+          "date" : "2025.12.28",
+          "event" : "Copa Toluca 2025",
+          "id" : 3476,
+          "plyCount" : "84",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Francisco Javier Perez Castro"
+        },
+        {
+          "black" : "Perez Camacho, Julio Emmanuel",
+          "date" : "2025.12.28",
+          "event" : "COPA TOLUCA DE AJEDREZ GRUPO C",
+          "id" : 3421,
+          "plyCount" : "84",
+          "relation" : "near (minHash)",
+          "result" : "0-1",
+          "white" : "Perez Castro, Francisco Javier"
+        }
+      ],
+      "kind" : "near-minHash",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Black",
+            "values" : [
+              "Perez, Camacho Julio Emmanuel",
+              "Perez Camacho, Julio Emmanuel"
+            ]
+          },
+          {
+            "name" : "Round",
+            "values" : [
+              "9.11",
+              "9"
+            ]
+          },
+          {
+            "name" : "Site",
+            "values" : [
+              "Toluca de Lerdo, Mexico",
+              "Unknown"
+            ]
+          }
+        ],
+        "keeper" : 3476,
+        "remove" : [
+          3421
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 3421,
+            "value" : "COPA TOLUCA DE AJEDREZ GRUPO C"
+          },
+          {
+            "name" : "Site",
+            "source" : 3421,
+            "value" : "Toluca de Lerdo, Mexico"
+          },
+          {
+            "name" : "Date",
+            "source" : 3476,
+            "value" : "2025.12.28"
+          },
+          {
+            "name" : "Round",
+            "source" : 3476,
+            "value" : "9.11"
+          },
+          {
+            "name" : "White",
+            "source" : 3476,
+            "value" : "Francisco Javier Perez Castro"
+          },
+          {
+            "name" : "Black",
+            "source" : 3476,
+            "value" : "Perez, Camacho Julio Emmanuel"
+          },
+          {
+            "name" : "Result",
+            "source" : 3476,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 3476,
+            "value" : "550010280"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 3476,
+            "value" : "339303263942"
+          },
+          {
+            "name" : "ECO",
+            "source" : 3476,
+            "value" : "C24"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 3476,
+            "value" : "NoMatch"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 3476,
+            "value" : "NoMatch"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 3476,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 3476,
+            "value" : "84"
+          },
+          {
+            "name" : "Source",
+            "source" : 3421,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 3476,
+            "value" : "2"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 3421,
+            "value" : "Classical"
+          }
+        ]
+      }
+    }
+  ],
+  "duplicates" : {
+    "exact" : 2429,
+    "games" : 492184,
+    "gamesWithSignature" : 478487,
+    "groups" : 5628,
+    "lshCandidatePairs" : 51819,
+    "lshSkippedBuckets" : 0,
+    "near" : 1112,
+    "nearByMinHash" : 977,
+    "nearByPosition" : 135,
+    "subsumed" : 2198
+  },
+  "fileBytes" : 521018965,
+  "games" : 492184,
+  "health" : {
+    "cleanGames" : 490846,
+    "entries" : [
+      "eloOutOfRange",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 1285241,
+            "detail" : "BlackElo 990",
+            "gameIndex" : 1223,
+            "label" : "Boes, Steffen – Romberg, Lene, Deutsche Vereinsmeisterschaft 2025 U10, 2025.12.30"
+          },
+          {
+            "byteOffset" : 1300463,
+            "detail" : "BlackElo 815",
+            "gameIndex" : 1236,
+            "label" : "Giss, Marlene – Bagavathiannan, Pugazh, Deutsche Vereinsmeisterschaft 2025 U10, 2025.12.30"
+          },
+          {
+            "byteOffset" : 1301525,
+            "detail" : "WhiteElo 775",
+            "gameIndex" : 1237,
+            "label" : "Goecking, Franz – Marschlich, Xenia Erika-Joyce, Deutsche Vereinsmeisterschaft 2025 U10, 2025.12.30"
+          },
+          {
+            "byteOffset" : 1306208,
+            "detail" : "BlackElo 799",
+            "gameIndex" : 1241,
+            "label" : "Gvozdov, Hlib – Schmidt, Ava Helene, Deutsche Vereinsmeisterschaft 2025 U10, 2025.12.30"
+          },
+          {
+            "byteOffset" : 1307206,
+            "detail" : "WhiteElo 763",
+            "gameIndex" : 1242,
+            "label" : "Hein, Adam Leopold – Todorov, Julian, Deutsche Vereinsmeisterschaft 2025 U10, 2025.12.30"
+          }
+        ],
+        "games" : 1214,
+        "kind" : "eloOutOfRange"
+      },
+      "illegalMove",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 67799920,
+            "detail" : "1. d2d4: notación no válida; cortada en 0 medias jugadas",
+            "gameIndex" : 62623,
+            "label" : "Jammalamadaka, Vihaan – Kaufman, Raymond, 19th Annual SPICE Cup Open, 2025.11.20",
+            "ply" : 1
+          },
+          {
+            "byteOffset" : 67800638,
+            "detail" : "1. e2e4: notación no válida; cortada en 0 medias jugadas",
+            "gameIndex" : 62624,
+            "label" : "Harish, Neeraj – Xu, Zhihan (samuel), 19th Annual SPICE Cup Open, 2025.11.20",
+            "ply" : 1
+          }
+        ],
+        "games" : 2,
+        "kind" : "illegalMove"
+      },
+      "resultContradictsMate",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 340226,
+            "detail" : "mate de las blancas y resultado 0-1",
+            "gameIndex" : 326,
+            "label" : "Musenze Charline – Lakica Elna Mercy, Kireka Open Chess Championship 2025 - Juniors, 2025.12.31",
+            "ply" : 35
+          },
+          {
+            "byteOffset" : 1683757,
+            "detail" : "mate de las negras y resultado 1-0",
+            "gameIndex" : 1586,
+            "label" : "Kaziro Jordan – Nanfuma Jesca, Kireka Open Chess Championship 2025 - Juniors, 2025.12.30",
+            "ply" : 16
+          },
+          {
+            "byteOffset" : 1706231,
+            "detail" : "mate de las negras y resultado 1-0",
+            "gameIndex" : 1617,
+            "label" : "Garikapati Srivalli – Nambohe Jacob, Kireka Open Chess Championship 2025 - Juniors, 2025.12.30",
+            "ply" : 24
+          },
+          {
+            "byteOffset" : 1711418,
+            "detail" : "mate de las blancas y resultado 0-1",
+            "gameIndex" : 1624,
+            "label" : "Kaziro Jordan – Agabangabo Kamugisha, Kireka Open Chess Championship 2025 - Juniors, 2025.12.30",
+            "ply" : 27
+          },
+          {
+            "byteOffset" : 1715753,
+            "detail" : "mate de las blancas y resultado 0-1",
+            "gameIndex" : 1630,
+            "label" : "Mugabi Ryan – Rumbidzai Ngonzi Birungi, Kireka Open Chess Championship 2025 - Juniors, 2025.12.30",
+            "ply" : 75
+          }
+        ],
+        "games" : 116,
+        "kind" : "resultContradictsMate"
+      },
+      "resultContradictsStalemate",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 145382806,
+            "detail" : "ahogado y resultado 1-0",
+            "gameIndex" : 136418,
+            "label" : "Gomes Barranco, Manuel Ignacio – Garcia Marroquin, Lily Adriana, III Chess Tournament TownCenter SUB14, 2025.09.20",
+            "ply" : 117
+          },
+          {
+            "byteOffset" : 238561264,
+            "detail" : "ahogado y resultado 0-1",
+            "gameIndex" : 223343,
+            "label" : "Chen, Jiarui – Chen, Siyu(ZJ), 2025 National Amateur Chess Master Tournament Hangzhou Station, 2025.07.26",
+            "ply" : 118
+          },
+          {
+            "byteOffset" : 270606069,
+            "detail" : "ahogado y resultado 0-1",
+            "gameIndex" : 253265,
+            "label" : "Qian, Youfan – Tang, Jiaze, 2025 China Youth Rapid Championship(U8), 2025.07.05",
+            "ply" : 120
+          },
+          {
+            "byteOffset" : 357912924,
+            "detail" : "ahogado y resultado 1-0",
+            "gameIndex" : 336082,
+            "label" : "Nurgaliyev, Sauat – Ahmad, Al Khatib, Asian Individual Men's Chess Championships 2025, 2025.05.13",
+            "ply" : 161
+          },
+          {
+            "byteOffset" : 375817553,
+            "detail" : "ahogado y resultado 0-1",
+            "gameIndex" : 353357,
+            "label" : "Fenton, Sam – Gilmour, Steven G, ?? Muswell Hill FIDE Congress (East Finchley) U2400 - 29th & 30th April 2025, 2025.04.30",
+            "ply" : 98
+          }
+        ],
+        "games" : 8,
+        "kind" : "resultContradictsStalemate"
+      }
+    ],
+    "examplesPerKind" : 5,
+    "gamesRead" : 492184,
+    "skippedGames" : 0,
+    "truncatedGames" : 2
+  },
+  "peakMemoryBytes" : 191512576,
+  "playerVariants" : 86332,
+  "source" : "LumbrasGigabase_OTB_2025.pgn",
+  "timings" : {
+    "aliases" : 56.347327458,
+    "duplicates" : 12.0126215,
+    "report" : 0.010099,
+    "scan" : 602.285155625,
+    "total" : 670.655203583
+  }
+}

@@ -1,0 +1,19 @@
+duplicates 100.0 % 3750 partidas   aliases 100.0 % 3750 partidas   report 100.0 % 3750 partidas   
+        5.23 real         2.65 user         0.07 sys
+            34603008  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                2647  page reclaims
+                  13  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   9  voluntary context switches
+                5607  involuntary context switches
+         27975459584  instructions retired
+          8244335888  cycles elapsed
+            27951704  peak memory footprint

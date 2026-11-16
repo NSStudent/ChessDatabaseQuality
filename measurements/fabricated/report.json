@@ -1,0 +1,3490 @@
+{
+  "aliasCounts" : {
+    "certain" : 326,
+    "likely" : 97,
+    "possible" : 9
+  },
+  "aliasExamples" : [
+    {
+      "alias" : {
+        "eloMax" : 2340,
+        "eloMin" : 2340,
+        "fideIDs" : [
+          1407589
+        ],
+        "games" : 1,
+        "normalized" : "aabling thomsen, j",
+        "rawSamples" : [
+          "Aabling-Thomsen, J."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2340,
+        "eloMin" : 2340,
+        "fideIDs" : [
+          1407589
+        ],
+        "games" : 3,
+        "normalized" : "aabling thomsen, jakob",
+        "rawSamples" : [
+          "Aabling-Thomsen, Jakob"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "certain",
+      "reasons" : [
+        "misma FIDE ID 1407589"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1556,
+        "eloMin" : 1556,
+        "fideIDs" : [
+          533026114
+        ],
+        "games" : 1,
+        "normalized" : "altschuler, o",
+        "rawSamples" : [
+          "Altschuler, O."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1556,
+        "eloMin" : 1556,
+        "fideIDs" : [
+          533026114
+        ],
+        "games" : 4,
+        "normalized" : "altschuler, olena",
+        "rawSamples" : [
+          "Altschuler, Olena"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2022
+      },
+      "confidence" : "certain",
+      "reasons" : [
+        "misma FIDE ID 533026114"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1868,
+        "eloMin" : 1868,
+        "fideIDs" : [
+          1131966
+        ],
+        "games" : 1,
+        "normalized" : "bartoszewicz, m",
+        "rawSamples" : [
+          "Bartoszewicz, M."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1868,
+        "eloMin" : 1868,
+        "fideIDs" : [
+          1131966
+        ],
+        "games" : 15,
+        "normalized" : "bartoszewicz, marcin",
+        "rawSamples" : [
+          "Bartoszewicz, Marcin",
+          "Marcin Bartoszewicz"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2022
+      },
+      "confidence" : "certain",
+      "reasons" : [
+        "misma FIDE ID 1131966"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1187,
+        "eloMin" : 1187,
+        "fideIDs" : [
+          428084241
+        ],
+        "games" : 1,
+        "normalized" : "biglari, a",
+        "rawSamples" : [
+          "Biglari, A."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1187,
+        "eloMin" : 1187,
+        "fideIDs" : [
+          428084241
+        ],
+        "games" : 2,
+        "normalized" : "biglari, adrina",
+        "rawSamples" : [
+          "Biglari, Adrina"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "certain",
+      "reasons" : [
+        "misma FIDE ID 428084241"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+          41886259
+        ],
+        "games" : 2,
+        "normalized" : "bogdan, r",
+        "rawSamples" : [
+          "Bogdan, R."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "fideIDs" : [
+          41886259
+        ],
+        "games" : 11,
+        "normalized" : "bogdan, rafal",
+        "rawSamples" : [
+          "Bogdan, Rafal"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2022
+      },
+      "confidence" : "certain",
+      "reasons" : [
+        "misma FIDE ID 41886259"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 2247,
+        "eloMin" : 2247,
+        "fideIDs" : [
+          21816140
+        ],
+        "games" : 1,
+        "normalized" : "brozyna, m",
+        "rawSamples" : [
+          "Brozyna, M."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2247,
+        "eloMin" : 2247,
+        "fideIDs" : [
+          21816140
+        ],
+        "games" : 2,
+        "normalized" : "brozyna, mateusz",
+        "rawSamples" : [
+          "Brozyna, Mateusz"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "certain",
+      "reasons" : [
+        "misma FIDE ID 21816140"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1867,
+        "eloMin" : 1867,
+        "fideIDs" : [
+          21012377
+        ],
+        "games" : 1,
+        "normalized" : "businski, j",
+        "rawSamples" : [
+          "Businski, J."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1867,
+        "eloMin" : 1867,
+        "fideIDs" : [
+          21012377
+        ],
+        "games" : 15,
+        "normalized" : "businski, jan",
+        "rawSamples" : [
+          "Businski, Jan",
+          "Jan Businski"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2022
+      },
+      "confidence" : "certain",
+      "reasons" : [
+        "misma FIDE ID 21012377"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 2369,
+        "eloMin" : 2369,
+        "fideIDs" : [
+          24542547
+        ],
+        "games" : 1,
+        "normalized" : "maestre, bernardo cesar",
+        "rawSamples" : [
+          "Bernardo Cesar Maestre"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2369,
+        "eloMin" : 2369,
+        "fideIDs" : [
+          24542547
+        ],
+        "games" : 5,
+        "normalized" : "cesar maestre, bernardo",
+        "rawSamples" : [
+          "Cesar Maestre, Bernardo"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "certain",
+      "reasons" : [
+        "misma FIDE ID 24542547"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 2544,
+        "eloMin" : 2544,
+        "fideIDs" : [
+
+        ],
+        "games" : 2,
+        "normalized" : "aleksakis, dimitris",
+        "rawSamples" : [
+          "Aleksakis, Dimitris"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2544,
+        "eloMin" : 2544,
+        "fideIDs" : [
+          4277023
+        ],
+        "games" : 18,
+        "normalized" : "alexakis, dimitris",
+        "rawSamples" : [
+          "Alexakis, Dimitris"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2022
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (2544–2544 / 2544–2544)",
+        "años activos compatibles",
+        "misma transliteración del apellido",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 2370,
+        "eloMin" : 2370,
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "aleksiadis, hristos",
+        "rawSamples" : [
+          "Aleksiadis, Hristos"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2370,
+        "eloMin" : 2370,
+        "fideIDs" : [
+          4249623
+        ],
+        "games" : 3,
+        "normalized" : "alexiadis, hristos",
+        "rawSamples" : [
+          "Alexiadis, Hristos"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (2370–2370 / 2370–2370)",
+        "años activos compatibles",
+        "misma transliteración del apellido",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1553,
+        "eloMin" : 1553,
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "anaparthi, a",
+        "rawSamples" : [
+          "Anaparthi, A."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1553,
+        "eloMin" : 1553,
+        "fideIDs" : [
+          34639608
+        ],
+        "games" : 3,
+        "normalized" : "anaparthi, anika",
+        "rawSamples" : [
+          "Anaparthi, Anika"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (1553–1553 / 1553–1553)",
+        "años activos compatibles",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 2101,
+        "eloMin" : 2101,
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "arowen, mikael",
+        "rawSamples" : [
+          "Arowen, Mikael"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2101,
+        "eloMin" : 2101,
+        "fideIDs" : [
+          1709534
+        ],
+        "games" : 9,
+        "normalized" : "aroven, mikael",
+        "rawSamples" : [
+          "Aroven, Mikael",
+          "AROVEN, Mikael"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2022
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (2101–2101 / 2101–2101)",
+        "años activos compatibles",
+        "misma transliteración del apellido",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1711,
+        "eloMin" : 1711,
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "averkova, o",
+        "rawSamples" : [
+          "Averkova, O."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1711,
+        "eloMin" : 1711,
+        "fideIDs" : [
+          34651462
+        ],
+        "games" : 1,
+        "normalized" : "averkova, olena",
+        "rawSamples" : [
+          "Averkova, Olena"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (1711–1711 / 1711–1711)",
+        "años activos compatibles",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 2105,
+        "eloMin" : 2105,
+        "fideIDs" : [
+
+        ],
+        "games" : 2,
+        "normalized" : "boukhris ferre, y",
+        "rawSamples" : [
+          "Boukhris Ferre, Y"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 2105,
+        "eloMin" : 2105,
+        "fideIDs" : [
+          697087
+        ],
+        "games" : 5,
+        "normalized" : "boukhris ferre, yacine",
+        "rawSamples" : [
+          "Boukhris-Ferre, Yacine"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (2105–2105 / 2105–2105)",
+        "años activos compatibles",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1594,
+        "eloMin" : 1594,
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "bredhauer, a",
+        "rawSamples" : [
+          "Bredhauer, A."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1594,
+        "eloMin" : 1594,
+        "fideIDs" : [
+          533046026
+        ],
+        "games" : 1,
+        "normalized" : "bredhauer, arthur",
+        "rawSamples" : [
+          "Bredhauer, Arthur"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (1594–1594 / 1594–1594)",
+        "años activos compatibles",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "eloMax" : 1504,
+        "eloMin" : 1504,
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "busani, s",
+        "rawSamples" : [
+          "Busani, S."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "eloMax" : 1504,
+        "eloMin" : 1504,
+        "fideIDs" : [
+          28519299
+        ],
+        "games" : 6,
+        "normalized" : "busani, stefano",
+        "rawSamples" : [
+          "Busani, Stefano"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "likely",
+      "reasons" : [
+        "similitud 1.00",
+        "Elo compatible (1504–1504 / 1504–1504)",
+        "años activos compatibles",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "kratkey, l",
+        "rawSamples" : [
+          "Kratkey, L."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "kratkey, louis",
+        "rawSamples" : [
+          "Kratkey, Louis"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 1.00",
+        "años activos compatibles",
+        "inicial frente a nombre completo"
+      ],
+      "score" : 1
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "anuszkiewizc, konrad",
+        "rawSamples" : [
+          "Konrad Anuszkiewizc"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 16,
+        "normalized" : "anuszkiewicz, konrad",
+        "rawSamples" : [
+          "Konrad Anuszkiewicz"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2020
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 0.99",
+        "años activos compatibles"
+      ],
+      "score" : 0.9908333333333335
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "kozlowskix, pawel",
+        "rawSamples" : [
+          "Pawel Kozlowskix"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 10,
+        "normalized" : "kozlowski, pawel",
+        "rawSamples" : [
+          "Pawel Kozlowski"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 0.99",
+        "años activos compatibles"
+      ],
+      "score" : 0.9890000000000001
+    },
+    {
+      "alias" : {
+        "eloMax" : 2152,
+        "eloMin" : 2152,
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "pulvirenti, d",
+        "rawSamples" : [
+          "Pulvirenti, D."
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "fideIDs" : [
+          28573986
+        ],
+        "games" : 1,
+        "normalized" : "pulvienrti, davidex",
+        "rawSamples" : [
+          "Pulvienrti, Davidex"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 0.99",
+        "años activos compatibles",
+        "inicial frente a nombre completo",
+        "FIDE ID solo en una grafía"
+      ],
+      "score" : 0.9890000000000001
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "bujonwski, adam",
+        "rawSamples" : [
+          "Adam Bujonwski"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 13,
+        "normalized" : "bujnowski, adam",
+        "rawSamples" : [
+          "Adam Bujnowski"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2022
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 0.99",
+        "años activos compatibles"
+      ],
+      "score" : 0.9857407407407408
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "pecirua, aronas",
+        "rawSamples" : [
+          "Pecirua, Aronas"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "peciura, aronas",
+        "rawSamples" : [
+          "Peciura, Aronas"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 0.98",
+        "años activos compatibles"
+      ],
+      "score" : 0.9842857142857144
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "orlwoski, adam",
+        "rawSamples" : [
+          "Adam Orlwoski"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 2,
+        "normalized" : "orlowski, adam",
+        "rawSamples" : [
+          "Adam Orlowski"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 0.98",
+        "años activos compatibles"
+      ],
+      "score" : 0.9839583333333335
+    },
+    {
+      "alias" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "ujrek, jan",
+        "rawSamples" : [
+          "Jan uJrek"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "canonical" : {
+        "fideIDs" : [
+
+        ],
+        "games" : 1,
+        "normalized" : "jurek, jan",
+        "rawSamples" : [
+          "Jan Jurek"
+        ],
+        "yearMax" : 2025,
+        "yearMin" : 2025
+      },
+      "confidence" : "possible",
+      "reasons" : [
+        "similitud 0.96",
+        "años activos compatibles"
+      ],
+      "score" : 0.9633333333333334
+    }
+  ],
+  "concurrency" : 10,
+  "duplicateExamples" : [
+    {
+      "games" : [
+        {
+          "black" : "Garcia, Jan Emmanuel",
+          "date" : "2025.12.31",
+          "event" : "10th HANOI Chess tournament January 2026- IM",
+          "id" : 0,
+          "plyCount" : "139",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Ngo, Duc Tri"
+        },
+        {
+          "black" : "Jan Emmanuel Garcia",
+          "date" : "2025.12.31",
+          "event" : "10th HAN",
+          "id" : 1,
+          "plyCount" : "139",
+          "relation" : "exact",
+          "result" : "0-1",
+          "white" : "Duc Tri Ngo"
+        }
+      ],
+      "kind" : "exact",
+      "proposal" : {
+        "conflicts" : [
+
+        ],
+        "keeper" : 0,
+        "remove" : [
+          1
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 0,
+            "value" : "10th HANOI Chess tournament January 2026- IM"
+          },
+          {
+            "name" : "Site",
+            "source" : 0,
+            "value" : "Future grandmaster Chessclub: 257 Bach Mai, Bach Mai ward Hanoi city, Viet Nam."
+          },
+          {
+            "name" : "Date",
+            "source" : 0,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 0,
+            "value" : "2"
+          },
+          {
+            "name" : "White",
+            "source" : 0,
+            "value" : "Ngo, Duc Tri"
+          },
+          {
+            "name" : "Black",
+            "source" : 0,
+            "value" : "Garcia, Jan Emmanuel"
+          },
+          {
+            "name" : "Result",
+            "source" : 0,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 0,
+            "value" : "2425"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 0,
+            "value" : "5200750"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 0,
+            "value" : "IM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 0,
+            "value" : "309239841016"
+          },
+          {
+            "name" : "ECO",
+            "source" : 0,
+            "value" : "A00"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 0,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 0,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 0,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 0,
+            "value" : "139"
+          },
+          {
+            "name" : "Source",
+            "source" : 0,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 0,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 0,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 0,
+            "value" : "2234"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 0,
+            "value" : "12405060"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 0,
+            "value" : "FM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Yu, Shi",
+          "date" : "2025.12.31",
+          "event" : "10th Johor International Chess Open 2025",
+          "id" : 15,
+          "plyCount" : "194",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Nguyen, Duc Hoa"
+        },
+        {
+          "black" : "YU, Shi",
+          "date" : "2025.12.31",
+          "event" : "10th Joh",
+          "id" : 16,
+          "plyCount" : "194",
+          "relation" : "exact",
+          "result" : "0-1",
+          "white" : "NGUYEN, Duc Hoa"
+        }
+      ],
+      "kind" : "exact",
+      "proposal" : {
+        "conflicts" : [
+
+        ],
+        "keeper" : 15,
+        "remove" : [
+          16
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 15,
+            "value" : "10th Johor International Chess Open 2025"
+          },
+          {
+            "name" : "Site",
+            "source" : 15,
+            "value" : "Main hall, Fairview International School"
+          },
+          {
+            "name" : "Date",
+            "source" : 15,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 15,
+            "value" : "9"
+          },
+          {
+            "name" : "White",
+            "source" : 15,
+            "value" : "Nguyen, Duc Hoa"
+          },
+          {
+            "name" : "Black",
+            "source" : 15,
+            "value" : "Yu, Shi"
+          },
+          {
+            "name" : "Result",
+            "source" : 15,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 15,
+            "value" : "2119"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 15,
+            "value" : "176094180155"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 15,
+            "value" : "NoMatch"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 15,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 15,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 15,
+            "value" : "194"
+          },
+          {
+            "name" : "Source",
+            "source" : 15,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 15,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 15,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 15,
+            "value" : "2433"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 15,
+            "value" : "12401358"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 15,
+            "value" : "GM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Hovhanisian, M",
+          "date" : "2025.12.31",
+          "event" : "14th Palmanova Open 2025",
+          "id" : 30,
+          "plyCount" : "78",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Piddubna, Bozhena"
+        },
+        {
+          "black" : "Howhanisian, M",
+          "date" : "2025.12.31",
+          "event" : "14th Pal",
+          "id" : 31,
+          "plyCount" : "78",
+          "relation" : "exact",
+          "result" : "0-1",
+          "white" : "Bozhena Piddubna"
+        }
+      ],
+      "kind" : "exact",
+      "proposal" : {
+        "conflicts" : [
+
+        ],
+        "keeper" : 30,
+        "remove" : [
+          31
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 30,
+            "value" : "14th Palmanova Open 2025"
+          },
+          {
+            "name" : "Site",
+            "source" : 30,
+            "value" : "Palmanova ITA"
+          },
+          {
+            "name" : "Date",
+            "source" : 30,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 30,
+            "value" : "6.9"
+          },
+          {
+            "name" : "White",
+            "source" : 30,
+            "value" : "Piddubna, Bozhena"
+          },
+          {
+            "name" : "Black",
+            "source" : 30,
+            "value" : "Hovhanisian, M"
+          },
+          {
+            "name" : "Result",
+            "source" : 30,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 30,
+            "value" : "2393"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 30,
+            "value" : "176095218634"
+          },
+          {
+            "name" : "ECO",
+            "source" : 30,
+            "value" : "D11"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 30,
+            "value" : "NoMatch"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 30,
+            "value" : "NoMatch"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 30,
+            "value" : "2026-10-12"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 30,
+            "value" : "78"
+          },
+          {
+            "name" : "Source",
+            "source" : 30,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 30,
+            "value" : "2"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 30,
+            "value" : "2291"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Xia, Xuejing",
+          "date" : "2025.12.31",
+          "event" : "2026 China Women's Chess Open | Blitz",
+          "id" : 60,
+          "plyCount" : "72",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Ling, Yingge"
+        },
+        {
+          "black" : "Xia, X.",
+          "date" : "2025.12.31",
+          "event" : "2026 Chi",
+          "id" : 61,
+          "plyCount" : "72",
+          "relation" : "exact",
+          "result" : "0-1",
+          "white" : "LING, Yingge"
+        }
+      ],
+      "kind" : "exact",
+      "proposal" : {
+        "conflicts" : [
+
+        ],
+        "keeper" : 60,
+        "remove" : [
+          61
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 60,
+            "value" : "2026 China Women's Chess Open | Blitz"
+          },
+          {
+            "name" : "Site",
+            "source" : 60,
+            "value" : "Unknown"
+          },
+          {
+            "name" : "Date",
+            "source" : 60,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 60,
+            "value" : "3.19"
+          },
+          {
+            "name" : "White",
+            "source" : 60,
+            "value" : "Ling, Yingge"
+          },
+          {
+            "name" : "Black",
+            "source" : 60,
+            "value" : "Xia, Xuejing"
+          },
+          {
+            "name" : "Result",
+            "source" : 60,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 60,
+            "value" : "1819"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 60,
+            "value" : "6011357"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 60,
+            "value" : "339303018822"
+          },
+          {
+            "name" : "ECO",
+            "source" : 60,
+            "value" : "A47"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 60,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 60,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 60,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 60,
+            "value" : "72"
+          },
+          {
+            "name" : "Source",
+            "source" : 60,
+            "value" : "LichessBroadcastAPI"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 60,
+            "value" : "2"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 60,
+            "value" : "1599"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 60,
+            "value" : "8650926"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Nguyen Thanh Thuy Tien",
+          "date" : "2025.12.31",
+          "event" : "10th HANOI Chess tournament January 2026- IM",
+          "id" : 2,
+          "plyCount" : "75",
+          "relation" : "keeper",
+          "result" : "1-0",
+          "white" : "Bao Khoa"
+        },
+        {
+          "black" : "Nguyen Thanh Thuy Tien",
+          "date" : "2025.12.31",
+          "event" : "10th HANOI Chess tournament January 2026- IM",
+          "id" : 3,
+          "plyCount" : "60",
+          "relation" : "subsumed",
+          "result" : "*",
+          "white" : "Bao Khoa"
+        }
+      ],
+      "kind" : "subsumed",
+      "proposal" : {
+        "conflicts" : [
+
+        ],
+        "keeper" : 2,
+        "remove" : [
+          3
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 2,
+            "value" : "10th HANOI Chess tournament January 2026- IM"
+          },
+          {
+            "name" : "Site",
+            "source" : 2,
+            "value" : "Future grandmaster Chessclub: 257 Bach Mai, Bach Mai ward Hanoi city, Viet Nam."
+          },
+          {
+            "name" : "Date",
+            "source" : 2,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 2,
+            "value" : "2.5"
+          },
+          {
+            "name" : "White",
+            "source" : 2,
+            "value" : "Bao Khoa"
+          },
+          {
+            "name" : "Black",
+            "source" : 2,
+            "value" : "Nguyen Thanh Thuy Tien"
+          },
+          {
+            "name" : "Result",
+            "source" : 2,
+            "value" : "1-0"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 2,
+            "value" : "1982"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 2,
+            "value" : "12400998"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 2,
+            "value" : "WIM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 2,
+            "value" : "176095763722"
+          },
+          {
+            "name" : "ECO",
+            "source" : 2,
+            "value" : "A00"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 2,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 2,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 2,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 2,
+            "value" : "75"
+          },
+          {
+            "name" : "Source",
+            "source" : 2,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 2,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 2,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 2,
+            "value" : "2218"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 2,
+            "value" : "12401501"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 2,
+            "value" : "IM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Ulhaq, Zacky Dhia",
+          "date" : "2025.12.31",
+          "event" : "10th Johor International Chess Open 2025",
+          "id" : 11,
+          "plyCount" : "68",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Dang Hoang Son"
+        },
+        {
+          "black" : "Ulhaq, Zacky Dhia",
+          "date" : "2025.12.31",
+          "event" : "10th Johor International Chess Open 2025",
+          "id" : 12,
+          "plyCount" : "68",
+          "relation" : "subsumed",
+          "result" : "0-1",
+          "white" : "Dang Hoang Son"
+        }
+      ],
+      "kind" : "subsumed",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Round",
+            "values" : [
+              "9",
+              "x5"
+            ]
+          }
+        ],
+        "keeper" : 11,
+        "remove" : [
+          12
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 11,
+            "value" : "10th Johor International Chess Open 2025"
+          },
+          {
+            "name" : "Site",
+            "source" : 11,
+            "value" : "Main hall, Fairview International School"
+          },
+          {
+            "name" : "Date",
+            "source" : 11,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 11,
+            "value" : "9"
+          },
+          {
+            "name" : "White",
+            "source" : 11,
+            "value" : "Dang Hoang Son"
+          },
+          {
+            "name" : "Black",
+            "source" : 11,
+            "value" : "Ulhaq, Zacky Dhia"
+          },
+          {
+            "name" : "Result",
+            "source" : 11,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 11,
+            "value" : "2311"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 11,
+            "value" : "7125674"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 11,
+            "value" : "FM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 11,
+            "value" : "184684149691"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 11,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 11,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 11,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 11,
+            "value" : "68"
+          },
+          {
+            "name" : "Source",
+            "source" : 11,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 11,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 11,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 11,
+            "value" : "2378"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 11,
+            "value" : "12402435"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 11,
+            "value" : "IM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Priasmoro, Novendra",
+          "date" : "2025.12.31",
+          "event" : "10th Johor International Chess Open 2025",
+          "id" : 17,
+          "plyCount" : "160",
+          "relation" : "keeper",
+          "result" : "1/2-1/2",
+          "white" : "Nguyen, Quoc Hy"
+        },
+        {
+          "black" : "Priasmoro, Novendra",
+          "date" : "2025.12.31",
+          "event" : "10th Johor International Chess Open 2025",
+          "id" : 18,
+          "plyCount" : "150",
+          "relation" : "subsumed",
+          "result" : "*",
+          "white" : "Nguyen, Quoc Hy"
+        }
+      ],
+      "kind" : "subsumed",
+      "proposal" : {
+        "conflicts" : [
+
+        ],
+        "keeper" : 17,
+        "remove" : [
+          18
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 17,
+            "value" : "10th Johor International Chess Open 2025"
+          },
+          {
+            "name" : "Site",
+            "source" : 17,
+            "value" : "Main hall, Fairview International School"
+          },
+          {
+            "name" : "Date",
+            "source" : 17,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 17,
+            "value" : "9"
+          },
+          {
+            "name" : "White",
+            "source" : 17,
+            "value" : "Nguyen, Quoc Hy"
+          },
+          {
+            "name" : "Black",
+            "source" : 17,
+            "value" : "Priasmoro, Novendra"
+          },
+          {
+            "name" : "Result",
+            "source" : 17,
+            "value" : "1/2-1/2"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 17,
+            "value" : "2394"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 17,
+            "value" : "7105029"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 17,
+            "value" : "GM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 17,
+            "value" : "176093757510"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 17,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 17,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 17,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 17,
+            "value" : "160"
+          },
+          {
+            "name" : "Source",
+            "source" : 17,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 17,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 17,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 17,
+            "value" : "2418"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 17,
+            "value" : "12410853"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 17,
+            "value" : "IM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Xia, Xuejing",
+          "date" : "2025.12.31",
+          "event" : "2026 China Women's Chess Open | Blitz",
+          "id" : 32,
+          "plyCount" : "67",
+          "relation" : "keeper",
+          "result" : "1-0",
+          "white" : "Zhao, Yunqing"
+        },
+        {
+          "black" : "Xia, Xuejing",
+          "date" : "2025.12.31",
+          "event" : "2026 China Women's Chess Open | Blitz",
+          "id" : 33,
+          "plyCount" : "53",
+          "relation" : "subsumed",
+          "result" : "*",
+          "white" : "Zhao, Yunqing"
+        }
+      ],
+      "kind" : "subsumed",
+      "proposal" : {
+        "conflicts" : [
+
+        ],
+        "keeper" : 32,
+        "remove" : [
+          33
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 32,
+            "value" : "2026 China Women's Chess Open | Blitz"
+          },
+          {
+            "name" : "Site",
+            "source" : 32,
+            "value" : "Unknown"
+          },
+          {
+            "name" : "Date",
+            "source" : 32,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 32,
+            "value" : "1.9"
+          },
+          {
+            "name" : "White",
+            "source" : 32,
+            "value" : "Zhao, Yunqing"
+          },
+          {
+            "name" : "Black",
+            "source" : 32,
+            "value" : "Xia, Xuejing"
+          },
+          {
+            "name" : "Result",
+            "source" : 32,
+            "value" : "1-0"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 32,
+            "value" : "1819"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 32,
+            "value" : "6011357"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 32,
+            "value" : "339302892199"
+          },
+          {
+            "name" : "ECO",
+            "source" : 32,
+            "value" : "A15"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 32,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 32,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 32,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 32,
+            "value" : "67"
+          },
+          {
+            "name" : "Source",
+            "source" : 32,
+            "value" : "LichessBroadcastAPI"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 32,
+            "value" : "2"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 32,
+            "value" : "2151"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 32,
+            "value" : "8626260"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 32,
+            "value" : "WIM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Le Phan Hoang Quan",
+          "date" : "2025.12.31",
+          "event" : "10th HANOI Chess tournament January 2026- IM",
+          "id" : 4,
+          "plyCount" : "104",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Nguyen, Vuong Tung Lam"
+        },
+        {
+          "black" : "Le Phan Hoang Quan",
+          "date" : "2025.12.31",
+          "event" : "10th HANOI Chess tournament January 2026- IM",
+          "id" : 5,
+          "plyCount" : "47",
+          "relation" : "near (positionAtPly)",
+          "result" : "1/2-1/2",
+          "white" : "Nguyen, Vuong Tung Lam"
+        }
+      ],
+      "kind" : "near-positionAtPly",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Result",
+            "values" : [
+              "0-1",
+              "1/2-1/2"
+            ]
+          }
+        ],
+        "keeper" : 4,
+        "remove" : [
+          5
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 4,
+            "value" : "10th HANOI Chess tournament January 2026- IM"
+          },
+          {
+            "name" : "Site",
+            "source" : 4,
+            "value" : "Future grandmaster Chessclub: 257 Bach Mai, Bach Mai ward Hanoi city, Viet Nam."
+          },
+          {
+            "name" : "Date",
+            "source" : 4,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 4,
+            "value" : "3"
+          },
+          {
+            "name" : "White",
+            "source" : 4,
+            "value" : "Nguyen, Vuong Tung Lam"
+          },
+          {
+            "name" : "Black",
+            "source" : 4,
+            "value" : "Le Phan Hoang Quan"
+          },
+          {
+            "name" : "Result",
+            "source" : 4,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 4,
+            "value" : "2184"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 4,
+            "value" : "12432881"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 4,
+            "value" : "CM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 4,
+            "value" : "309239841021"
+          },
+          {
+            "name" : "ECO",
+            "source" : 4,
+            "value" : "A00"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 4,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 4,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 4,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 4,
+            "value" : "104"
+          },
+          {
+            "name" : "Source",
+            "source" : 4,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 4,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 4,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 4,
+            "value" : "2137"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 4,
+            "value" : "12417440"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 4,
+            "value" : "CM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Abd Aziz, A Qil A Lauddin",
+          "date" : "2025.12.31",
+          "event" : "10th Johor International Chess Open 2025",
+          "id" : 19,
+          "plyCount" : "103",
+          "relation" : "keeper",
+          "result" : "1-0",
+          "white" : "Raahul V S"
+        },
+        {
+          "black" : "Abd Aziz, A Qil A Lauddin",
+          "date" : "2025.12.31",
+          "event" : "10th Johor International Chess Open 2025",
+          "id" : 20,
+          "plyCount" : "44",
+          "relation" : "near (positionAtPly)",
+          "result" : "1/2-1/2",
+          "white" : "Raahul V S"
+        }
+      ],
+      "kind" : "near-positionAtPly",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Result",
+            "values" : [
+              "1-0",
+              "1/2-1/2"
+            ]
+          }
+        ],
+        "keeper" : 19,
+        "remove" : [
+          20
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 19,
+            "value" : "10th Johor International Chess Open 2025"
+          },
+          {
+            "name" : "Site",
+            "source" : 19,
+            "value" : "Main hall, Fairview International School"
+          },
+          {
+            "name" : "Date",
+            "source" : 19,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 19,
+            "value" : "9"
+          },
+          {
+            "name" : "White",
+            "source" : 19,
+            "value" : "Raahul V S"
+          },
+          {
+            "name" : "Black",
+            "source" : 19,
+            "value" : "Abd Aziz, A Qil A Lauddin"
+          },
+          {
+            "name" : "Result",
+            "source" : 19,
+            "value" : "1-0"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 19,
+            "value" : "2078"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 19,
+            "value" : "5771498"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 19,
+            "value" : "Not yet awarded"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 19,
+            "value" : "176093806736"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 19,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 19,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 19,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 19,
+            "value" : "103"
+          },
+          {
+            "name" : "Source",
+            "source" : 19,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 19,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 19,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 19,
+            "value" : "2442"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 19,
+            "value" : "25035525"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 19,
+            "value" : "GM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Zhang, Xiao",
+          "date" : "2025.12.31",
+          "event" : "2026 China Women's Chess Open | Blitz",
+          "id" : 34,
+          "plyCount" : "127",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Liu, Yutong"
+        },
+        {
+          "black" : "Zhang, Xiao",
+          "date" : "2025.12.31",
+          "event" : "2026 China Women's Chess Open | Blitz",
+          "id" : 35,
+          "plyCount" : "46",
+          "relation" : "near (positionAtPly)",
+          "result" : "1/2-1/2",
+          "white" : "Liu, Yutong"
+        }
+      ],
+      "kind" : "near-positionAtPly",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Result",
+            "values" : [
+              "0-1",
+              "1/2-1/2"
+            ]
+          }
+        ],
+        "keeper" : 34,
+        "remove" : [
+          35
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 34,
+            "value" : "2026 China Women's Chess Open | Blitz"
+          },
+          {
+            "name" : "Site",
+            "source" : 34,
+            "value" : "Unknown"
+          },
+          {
+            "name" : "Date",
+            "source" : 34,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 34,
+            "value" : "1.12"
+          },
+          {
+            "name" : "White",
+            "source" : 34,
+            "value" : "Liu, Yutong"
+          },
+          {
+            "name" : "Black",
+            "source" : 34,
+            "value" : "Zhang, Xiao"
+          },
+          {
+            "name" : "Result",
+            "source" : 34,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 34,
+            "value" : "2148"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 34,
+            "value" : "8610894"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 34,
+            "value" : "WIM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 34,
+            "value" : "339302892202"
+          },
+          {
+            "name" : "ECO",
+            "source" : 34,
+            "value" : "A45"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 34,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 34,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 34,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 34,
+            "value" : "127"
+          },
+          {
+            "name" : "Source",
+            "source" : 34,
+            "value" : "LichessBroadcastAPI"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 34,
+            "value" : "2"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 34,
+            "value" : "1922"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 34,
+            "value" : "8610487"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Wang, Chuqiao",
+          "date" : "2025.12.31",
+          "event" : "2026 China Women's Chess Open | Blitz",
+          "id" : 49,
+          "plyCount" : "110",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Liu, Dijia"
+        },
+        {
+          "black" : "Wang, Chuqiao",
+          "date" : "2025.12.31",
+          "event" : "2026 China Women's Chess Open | Blitz",
+          "id" : 50,
+          "plyCount" : "44",
+          "relation" : "near (positionAtPly)",
+          "result" : "1/2-1/2",
+          "white" : "Liu, Dijia"
+        }
+      ],
+      "kind" : "near-positionAtPly",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "Result",
+            "values" : [
+              "0-1",
+              "1/2-1/2"
+            ]
+          }
+        ],
+        "keeper" : 49,
+        "remove" : [
+          50
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 49,
+            "value" : "2026 China Women's Chess Open | Blitz"
+          },
+          {
+            "name" : "Site",
+            "source" : 49,
+            "value" : "Unknown"
+          },
+          {
+            "name" : "Date",
+            "source" : 49,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 49,
+            "value" : "2.13"
+          },
+          {
+            "name" : "White",
+            "source" : 49,
+            "value" : "Liu, Dijia"
+          },
+          {
+            "name" : "Black",
+            "source" : 49,
+            "value" : "Wang, Chuqiao"
+          },
+          {
+            "name" : "Result",
+            "source" : 49,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 49,
+            "value" : "2235"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 49,
+            "value" : "8631638"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 49,
+            "value" : "WIM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 49,
+            "value" : "339303358810"
+          },
+          {
+            "name" : "ECO",
+            "source" : 49,
+            "value" : "A40"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 49,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 49,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 49,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 49,
+            "value" : "110"
+          },
+          {
+            "name" : "Source",
+            "source" : 49,
+            "value" : "LichessBroadcastAPI"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 49,
+            "value" : "2"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 49,
+            "value" : "1701"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 49,
+            "value" : "8662487"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Harshit Amarnani",
+          "date" : "2025.12.31",
+          "event" : "10th HANOI Chess tournament January 2026- IM",
+          "id" : 6,
+          "plyCount" : "93",
+          "relation" : "keeper",
+          "result" : "1-0",
+          "white" : "Soham Kamotra"
+        },
+        {
+          "black" : "Harshit Amarnani",
+          "date" : "2025.12.31",
+          "event" : "10th HANOI Chess tournament January 2026- IM",
+          "id" : 7,
+          "plyCount" : "93",
+          "relation" : "near (minHash)",
+          "result" : "1-0",
+          "white" : "Soham Kamorta"
+        }
+      ],
+      "kind" : "near-minHash",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "White",
+            "values" : [
+              "Soham Kamotra",
+              "Soham Kamorta"
+            ]
+          }
+        ],
+        "keeper" : 6,
+        "remove" : [
+          7
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 6,
+            "value" : "10th HANOI Chess tournament January 2026- IM"
+          },
+          {
+            "name" : "Site",
+            "source" : 6,
+            "value" : "Future grandmaster Chessclub: 257 Bach Mai, Bach Mai ward Hanoi city, Viet Nam."
+          },
+          {
+            "name" : "Date",
+            "source" : 6,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 6,
+            "value" : "3"
+          },
+          {
+            "name" : "White",
+            "source" : 6,
+            "value" : "Soham Kamotra"
+          },
+          {
+            "name" : "Black",
+            "source" : 6,
+            "value" : "Harshit Amarnani"
+          },
+          {
+            "name" : "Result",
+            "source" : 6,
+            "value" : "1-0"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 6,
+            "value" : "2071"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 6,
+            "value" : "45047553"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 6,
+            "value" : "309239841022"
+          },
+          {
+            "name" : "ECO",
+            "source" : 6,
+            "value" : "A00"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 6,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 6,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 6,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 6,
+            "value" : "93"
+          },
+          {
+            "name" : "Source",
+            "source" : 6,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 6,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 6,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 6,
+            "value" : "2404"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 6,
+            "value" : "46647490"
+          },
+          {
+            "name" : "WhiteTitle",
+            "source" : 6,
+            "value" : "IM"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Mohammad Nubairshah Shaikh",
+          "date" : "2025.12.31",
+          "event" : "10th Johor International Chess Open 2025",
+          "id" : 21,
+          "plyCount" : "140",
+          "relation" : "keeper",
+          "result" : "0-1",
+          "white" : "Syaputra, Arifa Rizki"
+        },
+        {
+          "black" : "Mohammad Nubairshah Shaikh",
+          "date" : "2025.12.31",
+          "event" : "10th Johor International Chess Open 2025",
+          "id" : 22,
+          "plyCount" : "140",
+          "relation" : "near (minHash)",
+          "result" : "0-1",
+          "white" : "Sayputra, Arifa Rizki"
+        }
+      ],
+      "kind" : "near-minHash",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "White",
+            "values" : [
+              "Syaputra, Arifa Rizki",
+              "Sayputra, Arifa Rizki"
+            ]
+          }
+        ],
+        "keeper" : 21,
+        "remove" : [
+          22
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 21,
+            "value" : "10th Johor International Chess Open 2025"
+          },
+          {
+            "name" : "Site",
+            "source" : 21,
+            "value" : "Main hall, Fairview International School"
+          },
+          {
+            "name" : "Date",
+            "source" : 21,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 21,
+            "value" : "9"
+          },
+          {
+            "name" : "White",
+            "source" : 21,
+            "value" : "Syaputra, Arifa Rizki"
+          },
+          {
+            "name" : "Black",
+            "source" : 21,
+            "value" : "Mohammad Nubairshah Shaikh"
+          },
+          {
+            "name" : "Result",
+            "source" : 21,
+            "value" : "0-1"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 21,
+            "value" : "2399"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 21,
+            "value" : "5053196"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 21,
+            "value" : "IM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 21,
+            "value" : "184684149692"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 21,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 21,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 21,
+            "value" : "2026-11-01"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 21,
+            "value" : "140"
+          },
+          {
+            "name" : "Source",
+            "source" : 21,
+            "value" : "Legacy Software Dump"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 21,
+            "value" : "1"
+          },
+          {
+            "name" : "TimeControl",
+            "source" : 21,
+            "value" : "Classical"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 21,
+            "value" : "2247"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 21,
+            "value" : "7105100"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Lei, Xinru",
+          "date" : "2025.12.31",
+          "event" : "2026 China Women's Chess Open | Blitz",
+          "id" : 36,
+          "plyCount" : "79",
+          "relation" : "keeper",
+          "result" : "1-0",
+          "white" : "Peng, Tianlu"
+        },
+        {
+          "black" : "Lei, Xinru",
+          "date" : "2025.12.31",
+          "event" : "2026 China Women's Chess Open | Blitz",
+          "id" : 37,
+          "plyCount" : "79",
+          "relation" : "near (minHash)",
+          "result" : "1-0",
+          "white" : "Pegn, Tianlu"
+        }
+      ],
+      "kind" : "near-minHash",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "White",
+            "values" : [
+              "Peng, Tianlu",
+              "Pegn, Tianlu"
+            ]
+          }
+        ],
+        "keeper" : 36,
+        "remove" : [
+          37
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 36,
+            "value" : "2026 China Women's Chess Open | Blitz"
+          },
+          {
+            "name" : "Site",
+            "source" : 36,
+            "value" : "Unknown"
+          },
+          {
+            "name" : "Date",
+            "source" : 36,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 36,
+            "value" : "1.15"
+          },
+          {
+            "name" : "White",
+            "source" : 36,
+            "value" : "Peng, Tianlu"
+          },
+          {
+            "name" : "Black",
+            "source" : 36,
+            "value" : "Lei, Xinru"
+          },
+          {
+            "name" : "Result",
+            "source" : 36,
+            "value" : "1-0"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 36,
+            "value" : "1564"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 36,
+            "value" : "8689644"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 36,
+            "value" : "176096260259"
+          },
+          {
+            "name" : "ECO",
+            "source" : 36,
+            "value" : "B12"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 36,
+            "value" : "NoMatch"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 36,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 36,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 36,
+            "value" : "79"
+          },
+          {
+            "name" : "Source",
+            "source" : 36,
+            "value" : "LichessBroadcastAPI"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 36,
+            "value" : "2"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 36,
+            "value" : "2071"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 36,
+            "value" : "8605220"
+          }
+        ]
+      }
+    },
+    {
+      "games" : [
+        {
+          "black" : "Zhao, Shengxin",
+          "date" : "2025.12.31",
+          "event" : "2026 China Women's Chess Open | Blitz",
+          "id" : 45,
+          "plyCount" : "83",
+          "relation" : "keeper",
+          "result" : "1/2-1/2",
+          "white" : "Peng, Jingyi"
+        },
+        {
+          "black" : "Shengxin Zhao",
+          "date" : "2025.12.31",
+          "event" : "2026 Chi",
+          "id" : 46,
+          "plyCount" : "83",
+          "relation" : "near (minHash)",
+          "result" : "1/2-1/2",
+          "white" : "Peng, J."
+        }
+      ],
+      "kind" : "near-minHash",
+      "proposal" : {
+        "conflicts" : [
+          {
+            "name" : "White",
+            "values" : [
+              "Peng, Jingyi",
+              "Peng, J."
+            ]
+          }
+        ],
+        "keeper" : 45,
+        "remove" : [
+          46
+        ],
+        "tags" : [
+          {
+            "name" : "Event",
+            "source" : 45,
+            "value" : "2026 China Women's Chess Open | Blitz"
+          },
+          {
+            "name" : "Site",
+            "source" : 45,
+            "value" : "Unknown"
+          },
+          {
+            "name" : "Date",
+            "source" : 45,
+            "value" : "2025.12.31"
+          },
+          {
+            "name" : "Round",
+            "source" : 45,
+            "value" : "2.5"
+          },
+          {
+            "name" : "White",
+            "source" : 45,
+            "value" : "Peng, Jingyi"
+          },
+          {
+            "name" : "Black",
+            "source" : 45,
+            "value" : "Zhao, Shengxin"
+          },
+          {
+            "name" : "Result",
+            "source" : 45,
+            "value" : "1/2-1/2"
+          },
+          {
+            "name" : "BlackElo",
+            "source" : 45,
+            "value" : "2194"
+          },
+          {
+            "name" : "BlackFideId",
+            "source" : 45,
+            "value" : "8608040"
+          },
+          {
+            "name" : "BlackTitle",
+            "source" : 45,
+            "value" : "WFM"
+          },
+          {
+            "name" : "DeduplicatorId",
+            "source" : 45,
+            "value" : "339303358802"
+          },
+          {
+            "name" : "ECO",
+            "source" : 45,
+            "value" : "A01"
+          },
+          {
+            "name" : "IdentityEvidenceBlack",
+            "source" : 45,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "IdentityEvidenceWhite",
+            "source" : 45,
+            "value" : "Confirmed"
+          },
+          {
+            "name" : "ImportDate",
+            "source" : 45,
+            "value" : "2026-11-11"
+          },
+          {
+            "name" : "PlyCount",
+            "source" : 45,
+            "value" : "83"
+          },
+          {
+            "name" : "Source",
+            "source" : 45,
+            "value" : "LichessBroadcastAPI"
+          },
+          {
+            "name" : "SourceQuality",
+            "source" : 45,
+            "value" : "2"
+          },
+          {
+            "name" : "WhiteElo",
+            "source" : 45,
+            "value" : "1720"
+          },
+          {
+            "name" : "WhiteFideId",
+            "source" : 45,
+            "value" : "8622701"
+          }
+        ]
+      }
+    }
+  ],
+  "duplicates" : {
+    "exact" : 246,
+    "games" : 3708,
+    "gamesWithSignature" : 3041,
+    "groups" : 1081,
+    "lshCandidatePairs" : 310,
+    "lshSkippedBuckets" : 0,
+    "near" : 505,
+    "nearByMinHash" : 254,
+    "nearByPosition" : 251,
+    "subsumed" : 336
+  },
+  "fileBytes" : 3463305,
+  "games" : 3750,
+  "health" : {
+    "cleanGames" : 3500,
+    "entries" : [
+      "plyCountMismatch",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 70382,
+            "detail" : "PlyCount 74, jugadas 12",
+            "gameIndex" : 72,
+            "label" : "Yirr, Ruiyux – Peng, Tianlu, 2026 China Women's Chess Open | Blitz, 2025.02.30"
+          },
+          {
+            "byteOffset" : 84510,
+            "detail" : "PlyCount 87, jugadas 30",
+            "gameIndex" : 87,
+            "label" : "Gao, Muziyan – Mu, Wangxueyao, 2026 China Women's Chess Open | Blitz, 2025.12.31"
+          },
+          {
+            "byteOffset" : 155264,
+            "detail" : "PlyCount 231, jugadas 12",
+            "gameIndex" : 162,
+            "label" : "Harr, Yihanx – Wang, Qinxuanyi, 2026 China Women's Chess Open | Rapid, 2025.02.30"
+          },
+          {
+            "byteOffset" : 170009,
+            "detail" : "PlyCount 150, jugadas 30",
+            "gameIndex" : 177,
+            "label" : "Huang, Zixin – Ling, Yingge, 2026 China Women's Chess Open | Rapid, 2025.12.31"
+          },
+          {
+            "byteOffset" : 240533,
+            "detail" : "PlyCount 88, jugadas 12",
+            "gameIndex" : 252,
+            "label" : "Wang, Leyix – Xia, Miaoyan, 2026 China Women's Chess Open | Rapid, 2025.02.30"
+          }
+        ],
+        "games" : 82,
+        "kind" : "plyCountMismatch"
+      },
+      "unreadableGame",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 30283,
+            "detail" : "cabecera ilegible: «[Event \"Fabricated\"]»",
+            "gameIndex" : 27,
+            "label" : "? – ?, ?, ????.??.??"
+          },
+          {
+            "byteOffset" : 112224,
+            "detail" : "cabecera ilegible: «[Event \"Fabricated\"]»",
+            "gameIndex" : 117,
+            "label" : "? – ?, ?, ????.??.??"
+          },
+          {
+            "byteOffset" : 198493,
+            "detail" : "cabecera ilegible: «[Event \"Fabricated\"]»",
+            "gameIndex" : 207,
+            "label" : "? – ?, ?, ????.??.??"
+          },
+          {
+            "byteOffset" : 285649,
+            "detail" : "cabecera ilegible: «[Event \"Fabricated\"]»",
+            "gameIndex" : 297,
+            "label" : "? – ?, ?, ????.??.??"
+          },
+          {
+            "byteOffset" : 367114,
+            "detail" : "cabecera ilegible: «[Event \"Fabricated\"]»",
+            "gameIndex" : 387,
+            "label" : "? – ?, ?, ????.??.??"
+          }
+        ],
+        "games" : 42,
+        "kind" : "unreadableGame"
+      },
+      "noMovesDecisiveResult",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 56770,
+            "detail" : "0 jugadas y resultado 1-0",
+            "gameIndex" : 57,
+            "label" : "Wang, Chuqiao – Mu, Wangxueyao, 2026 China Women's Chess Open | Blitz, 2025.12.31"
+          },
+          {
+            "byteOffset" : 139435,
+            "detail" : "0 jugadas y resultado 1-0",
+            "gameIndex" : 147,
+            "label" : "Lei, Xinru – Zhai, Wenhui, 2026 China Women's Chess Open | Blitz, 2025.12.31"
+          },
+          {
+            "byteOffset" : 226594,
+            "detail" : "0 jugadas y resultado 1-0",
+            "gameIndex" : 237,
+            "label" : "Xiao, Yiyi – Zhai, Mo, 2026 China Women's Chess Open | Rapid, 2025.12.31"
+          },
+          {
+            "byteOffset" : 313219,
+            "detail" : "0 jugadas y resultado 1-0",
+            "gameIndex" : 327,
+            "label" : "Balzer, Lars – Venkatesh, Anuj, Hastings Masters, 2025.12.31"
+          },
+          {
+            "byteOffset" : 396376,
+            "detail" : "0 jugadas y resultado 1-0",
+            "gameIndex" : 417,
+            "label" : "Priasmoro, Novendra – R.Ashockumar, Kisshore, Johor Festival Blitz 2025, 2025.12.31"
+          }
+        ],
+        "games" : 42,
+        "kind" : "noMovesDecisiveResult"
+      },
+      "missingRequiredTag",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 70382,
+            "detail" : "Site",
+            "gameIndex" : 72,
+            "label" : "Yirr, Ruiyux – Peng, Tianlu, 2026 China Women's Chess Open | Blitz, 2025.02.30"
+          },
+          {
+            "byteOffset" : 155264,
+            "detail" : "Site",
+            "gameIndex" : 162,
+            "label" : "Harr, Yihanx – Wang, Qinxuanyi, 2026 China Women's Chess Open | Rapid, 2025.02.30"
+          },
+          {
+            "byteOffset" : 240533,
+            "detail" : "Site",
+            "gameIndex" : 252,
+            "label" : "Wang, Leyix – Xia, Miaoyan, 2026 China Women's Chess Open | Rapid, 2025.02.30"
+          },
+          {
+            "byteOffset" : 326281,
+            "detail" : "Site",
+            "gameIndex" : 342,
+            "label" : "Deuer, Mariusx – Ward, Cian, Hastings Masters, 2025.02.30"
+          },
+          {
+            "byteOffset" : 410705,
+            "detail" : "Site",
+            "gameIndex" : 432,
+            "label" : "Irungu Brian Mawnigx – Gohil, Mehul, Kenya National Chess Championship 2025 - Open Section, 2025.02.30"
+          }
+        ],
+        "games" : 41,
+        "kind" : "missingRequiredTag"
+      },
+      "illegalMove",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 12502,
+            "detail" : "11. Ke8: no hay pieza que pueda ir ahí; cortada en 20 medias jugadas",
+            "gameIndex" : 12,
+            "label" : "Dang Hoang Son – Ulhaq, Zacky Dhia, 10th Johor International Chess Open 2025, 2025.12.31",
+            "ply" : 21
+          },
+          {
+            "byteOffset" : 97526,
+            "detail" : "11. Ke8: no hay pieza que pueda ir ahí; cortada en 20 medias jugadas",
+            "gameIndex" : 102,
+            "label" : "Peng, Jingyi – Liu, Yutong, 2026 China Women's Chess Open | Blitz, 2025.12.31",
+            "ply" : 21
+          },
+          {
+            "byteOffset" : 183117,
+            "detail" : "11. Ke8: no hay pieza que pueda ir ahí; cortada en 20 medias jugadas",
+            "gameIndex" : 192,
+            "label" : "Zhang, Xiao – Mu, Wangxueyao, 2026 China Women's Chess Open | Rapid, 2025.12.31",
+            "ply" : 21
+          },
+          {
+            "byteOffset" : 270435,
+            "detail" : "11. Ke8: no hay pieza que pueda ir ahí; cortada en 20 medias jugadas",
+            "gameIndex" : 282,
+            "label" : "Tsarsitalidis, Konstantinos – Sarantos, Vasileios, 46th Open 'White Tower' 2026 | Group A, 2025.12.31",
+            "ply" : 21
+          },
+          {
+            "byteOffset" : 353650,
+            "detail" : "11. Ke8: no hay pieza que pueda ir ahí; cortada en 20 medias jugadas",
+            "gameIndex" : 372,
+            "label" : "ONUOHA, Obioma – Chapman, Luke, Hastings Masters, 2025.12.31",
+            "ply" : 21
+          }
+        ],
+        "games" : 42,
+        "kind" : "illegalMove"
+      },
+      "impossibleDate",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 70382,
+            "detail" : "Date «2025.02.30»: día 30 del mes 2",
+            "gameIndex" : 72,
+            "label" : "Yirr, Ruiyux – Peng, Tianlu, 2026 China Women's Chess Open | Blitz, 2025.02.30"
+          },
+          {
+            "byteOffset" : 155264,
+            "detail" : "Date «2025.02.30»: día 30 del mes 2",
+            "gameIndex" : 162,
+            "label" : "Harr, Yihanx – Wang, Qinxuanyi, 2026 China Women's Chess Open | Rapid, 2025.02.30"
+          },
+          {
+            "byteOffset" : 240533,
+            "detail" : "Date «2025.02.30»: día 30 del mes 2",
+            "gameIndex" : 252,
+            "label" : "Wang, Leyix – Xia, Miaoyan, 2026 China Women's Chess Open | Rapid, 2025.02.30"
+          },
+          {
+            "byteOffset" : 326281,
+            "detail" : "Date «2025.02.30»: día 30 del mes 2",
+            "gameIndex" : 342,
+            "label" : "Deuer, Mariusx – Ward, Cian, Hastings Masters, 2025.02.30"
+          },
+          {
+            "byteOffset" : 410705,
+            "detail" : "Date «2025.02.30»: día 30 del mes 2",
+            "gameIndex" : 432,
+            "label" : "Irungu Brian Mawnigx – Gohil, Mehul, Kenya National Chess Championship 2025 - Open Section, 2025.02.30"
+          }
+        ],
+        "games" : 41,
+        "kind" : "impossibleDate"
+      },
+      "resultContradictsMate",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 43598,
+            "detail" : "mate de las negras y resultado 1-0",
+            "gameIndex" : 42,
+            "label" : "Li, Yilin – Zhu, Yixin, Fabricated, 2020.01.01",
+            "ply" : 4
+          },
+          {
+            "byteOffset" : 125653,
+            "detail" : "mate de las negras y resultado 1-0",
+            "gameIndex" : 132,
+            "label" : "Wang, Hanzhang – Lei, Xinru, Fabricated, 2020.01.01",
+            "ply" : 4
+          },
+          {
+            "byteOffset" : 213306,
+            "detail" : "mate de las negras y resultado 1-0",
+            "gameIndex" : 222,
+            "label" : "Chen, Yining – Zhao, Shengxin, Fabricated, 2020.01.01",
+            "ply" : 4
+          },
+          {
+            "byteOffset" : 299842,
+            "detail" : "mate de las negras y resultado 1-0",
+            "gameIndex" : 312,
+            "label" : "Lee, Alice – Lohia, Sohum, Fabricated, 2020.01.01",
+            "ply" : 4
+          },
+          {
+            "byteOffset" : 382158,
+            "detail" : "mate de las negras y resultado 1-0",
+            "gameIndex" : 402,
+            "label" : "Wilson, Matthew R – Hill, Alistair, Fabricated, 2020.01.01",
+            "ply" : 4
+          }
+        ],
+        "games" : 42,
+        "kind" : "resultContradictsMate"
+      },
+      "missingTermination",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 84510,
+            "detail" : "el movetext acaba sin resultado tras 30 medias jugadas",
+            "gameIndex" : 87,
+            "label" : "Gao, Muziyan – Mu, Wangxueyao, 2026 China Women's Chess Open | Blitz, 2025.12.31"
+          },
+          {
+            "byteOffset" : 170009,
+            "detail" : "el movetext acaba sin resultado tras 30 medias jugadas",
+            "gameIndex" : 177,
+            "label" : "Huang, Zixin – Ling, Yingge, 2026 China Women's Chess Open | Rapid, 2025.12.31"
+          },
+          {
+            "byteOffset" : 255911,
+            "detail" : "el movetext acaba sin resultado tras 30 medias jugadas",
+            "gameIndex" : 267,
+            "label" : "Casagrande, Federico – Wimmer, Michael, 34. Aschacher Donau Open Gruppe A, 2025.12.31"
+          },
+          {
+            "byteOffset" : 339555,
+            "detail" : "el movetext acaba sin resultado tras 30 medias jugadas",
+            "gameIndex" : 357,
+            "label" : "Kapechun, Mikhailo – Shankar, Yashwardhan, Hastings Masters, 2025.12.31"
+          },
+          {
+            "byteOffset" : 423176,
+            "detail" : "el movetext acaba sin resultado tras 30 medias jugadas",
+            "gameIndex" : 447,
+            "label" : "Namukobe Suzan – Mwanje Kish Manuel, Kireka Open Chess Championship 2025 - Juniors, 2025.12.31"
+          }
+        ],
+        "games" : 41,
+        "kind" : "missingTermination"
+      },
+      "eloOutOfRange",
+      {
+        "examples" : [
+          {
+            "byteOffset" : 70382,
+            "detail" : "WhiteElo 4000",
+            "gameIndex" : 72,
+            "label" : "Yirr, Ruiyux – Peng, Tianlu, 2026 China Women's Chess Open | Blitz, 2025.02.30"
+          },
+          {
+            "byteOffset" : 155264,
+            "detail" : "WhiteElo 4000",
+            "gameIndex" : 162,
+            "label" : "Harr, Yihanx – Wang, Qinxuanyi, 2026 China Women's Chess Open | Rapid, 2025.02.30"
+          },
+          {
+            "byteOffset" : 240533,
+            "detail" : "WhiteElo 4000",
+            "gameIndex" : 252,
+            "label" : "Wang, Leyix – Xia, Miaoyan, 2026 China Women's Chess Open | Rapid, 2025.02.30"
+          },
+          {
+            "byteOffset" : 326281,
+            "detail" : "WhiteElo 4000",
+            "gameIndex" : 342,
+            "label" : "Deuer, Mariusx – Ward, Cian, Hastings Masters, 2025.02.30"
+          },
+          {
+            "byteOffset" : 410705,
+            "detail" : "WhiteElo 4000",
+            "gameIndex" : 432,
+            "label" : "Irungu Brian Mawnigx – Gohil, Mehul, Kenya National Chess Championship 2025 - Open Section, 2025.02.30"
+          }
+        ],
+        "games" : 41,
+        "kind" : "eloOutOfRange"
+      }
+    ],
+    "examplesPerKind" : 5,
+    "gamesRead" : 3750,
+    "skippedGames" : 42,
+    "truncatedGames" : 42
+  },
+  "peakMemoryBytes" : 31440896,
+  "playerVariants" : 2405,
+  "source" : "fabricated.pgn",
+  "timings" : {
+    "aliases" : 1.48873675,
+    "duplicates" : 0.20224325,
+    "report" : 0.003506125,
+    "scan" : 3.472703166,
+    "total" : 5.167189291
+  }
+}
